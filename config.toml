@@ -7,7 +7,7 @@ DefaultContentLanguage = "it"
 #SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [languages]
   [languages.it]
