@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://jolly-sky-063afb603.2.azurestaticapps.net"
 languageCode = "it-it"
 title = "IT Specialist Cloud"
 theme = "ananke"
