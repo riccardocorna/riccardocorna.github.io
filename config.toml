@@ -1,4 +1,4 @@
-baseURL = "http://itspecialistcloud.github.io/"
+baseURL = "http://localhost/"
 languageCode = "it-it"
 title = "IT Specialist Cloud"
 theme = "ananke"
