@@ -3,7 +3,7 @@ date: 2022-07-13T09:00:00-00:00
 description: "Temporary Access Pass in Azure AD: cos'è, come funziona, in quali situazioni risulta utile e demo di esperienza utente."
 featured_image: "/images/01-Temporary-Access-Pass-Azure-AD.jpg"
 categories: [ "Identity & Security" ]
-tags: [ "Azure AD", "Passwordless" ]
+tags: [ "Azure AD", "Passwordless", "Video" ]
 title: "Temporary Access Pass in Azure AD"
 url: "/temporary-access-pass-azure-ad"
 ---

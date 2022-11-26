@@ -3,7 +3,7 @@ date: 2022-11-23T09:00:00-00:00
 description: "Secondo episodio di una mini-serie in cui vedremo come sfruttare gli strumenti di Defender for Endpoint per mettere in sicurezza macOS."
 featured_image: "/images/cover-macos-sicurezza-mde-intune-parte2.png"
 categories : "Identity & Security"
-tags: [ "macOS","Microsoft Defender for Endpoint","Intune" ]
+tags: [ "macOS","Microsoft Defender for Endpoint","Intune", "Video" ]
 title: "macOS in sicurezza con Microsoft Defender for Endpoint – Parte 2"
 #url: /macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-2
 ---

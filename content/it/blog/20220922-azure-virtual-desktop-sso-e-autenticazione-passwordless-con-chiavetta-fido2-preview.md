@@ -3,7 +3,7 @@ date: 2022-09-22T09:00:00-00:00
 description: "Finalmente (anche se solo in anteprima) Azure Virtual Desktop supporta SSO e autenticazione passwordless con chiavette FIDO2"
 featured_image: "/images/SSO-RDP-Property.png"
 categories: [ "Identity & Security" ]
-tags: [ "Azure Virtual Desktop","SSO","FIDO2","Passwordless","News" ]
+tags: [ "Azure Virtual Desktop","FIDO2","Passwordless","News" ]
 title: "Azure Virtual Desktop: supporto a SSO e autenticazione passwordless con chiavetta FIDO2 (preview)"
 url: "/azure-virtual-desktop-sso-e-autenticazione-passwordless-con-chiavetta-fido2-preview"
 ---

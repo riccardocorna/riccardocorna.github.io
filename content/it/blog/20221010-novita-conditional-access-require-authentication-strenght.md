@@ -3,7 +3,7 @@ date: 2022-10-10T09:00:00-00:00
 description: "Novità fresca fresca in ambito conditional access di Azure AD, in particolare per quanto riguarda le opzioni di Grant sulla MFA."
 featured_image: "/images/Screenshot-2022-10-08-at-17.00.29.jpg"
 categories: [ "Identity & Security" ]
-tags: [ "MFA","Multi Factor Authentication","Azure AD","Authentication Strenght","News" ]
+tags: [ "Multi Factor Authentication","Azure AD","News" ]
 title: "Novità Conditional Access: Require authentication strenght"
 url: "/novita-conditional-access-require-authentication-strenght"
 ---

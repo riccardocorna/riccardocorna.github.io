@@ -3,7 +3,7 @@ date: 2022-11-16T09:00:00-00:00
 description: "Un caffè con... Rubrica della community Microsoft Security Italian Users Group in cui parliamo di tecnologie Microsoft in ambito cloud e security."
 featured_image: "/images/Screenshot-2022-11-16-at-10.25.23.jpg"
 categories: [ "Eventi & Community" ]
-tags: [ "Un caffè con","MSSecIUG","Microsoft Security Italian Users Group" ]
+tags: [ "Un caffè con","Microsoft Security Italian Users Group", "Video" ]
 title: "Un caffè con... Stefano Nieri"
 url: "un-caffe-con-stefano-nieri"
 ---

@@ -3,7 +3,7 @@ date: 2022-07-18T09:00:00-00:00
 description: "Nuove funzionalità e possibilità di sincronizzazione dei gruppi da Azure AD verso Active Directory on-premises."
 featured_image: "/images/01-AAD-Groups-WriteBack.jpg"
 categories: [ "Identity & Security" ]
-tags: [ "Azure AD", "Azure AD Connect" ]
+tags: [ "Azure AD", "Azure AD Connect", "Video" ]
 title: "Novità sul writeback dei gruppi da Azure AD verso Active Directory on-premises"
 url: "/novita-writeback-gruppi-azure-ad-active-directory-on-premises-luglio-2022"
 ---

@@ -3,7 +3,7 @@ date: 2022-07-25T09:00:00-00:00
 description: "A partire da macOS 13 Ventura, sarà finalmente possibile fare login su macOS con credenziali Azure AD. Annuncio e primi dettagli."
 featured_image: "/images/01-AzureAD-macOS-SSO.jpg"
 categories: [ "Identity & Security" ]
-tags: [ "macOS","Azure AD", "Single Sign-On","News" ]
+tags: [ "macOS","Azure AD", "Single Sign-On", "News" ]
 title: "Login su macOS con credenziali Azure AD: work in progress"
 url: "/annuncio-login-su-macos-con-credenziali-azure-ad"
 ---

@@ -3,7 +3,7 @@ date: 2022-07-20T09:00:00-00:00
 description: "Come sapere se un endpoint protetto da Microsoft Defender for Endpoint è in Active o Passive mode con una comoda query KQL."
 featured_image: "/images/01-MDE-Hunting-Query-Active-Passive-Mode-1.jpg"
 categories: [ "Identity & Security" ]
-tags: [ "Microsoft Defender for Endpoint" ]
+tags: [ "Microsoft Defender for Endpoint", "Guida" ]
 title: "Come sapere se Microsoft Defender for Endpoint è in Active o Passive mode su un endpoint"
 url: "/come-rilevare-active-mode-passive-mode-microsoft-defender-for-endpoint"
 ---
