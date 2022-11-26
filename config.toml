@@ -1,0 +1,88 @@
+baseURL = "http://itspecialistcloud.github.io/"
+languageCode = "it-it"
+title = "IT Specialist Cloud"
+theme = "ananke"
+
+DefaultContentLanguage = "it"
+#SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.it]
+    title = "IT Specialist Cloud"
+    weight = 1
+    contentDir = "content/it"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  blog = "/:title/"
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 2
+[[menu.main]]
+  identifier = "identity-security"
+  name = "Identity & Security"
+  url = "/categories/identity-security"
+  weight = 3
+[[menu.main]]
+  identifier = "eventi-community"
+  name = "Eventi & Community"
+  url = "/categories/eventi-community"
+  weight = 4
+[[menu.main]]
+  identifier = "modern-endpoint"
+  name = "Modern Endpoint"
+  url = "/categories/modern-endpoint"
+  weight = 5
+[[menu.main]]
+  identifier = "altro"
+  name = "Altro"
+  url = "/categories/altro"
+  weight = 6
+[[menu.main]]
+  identifier = "divagazioni"
+  name = "Divagazioni"
+  url = "/categories/divagazioni"
+  weight = 7
+[[menu.main]]
+  identifier = "privacy-policy"
+  name = "Privacy Policy"
+  url = "https://www.iubenda.com/privacy-policy/37879840"
+  weight = 8
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  show_reading_time = true
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/riccardocorna/it"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/@ITSpecialistCloud"
+
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://mastodon.uno/@riccardocorna"
