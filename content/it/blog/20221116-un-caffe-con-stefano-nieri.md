@@ -23,5 +23,4 @@ Per non perderti nemmeno una puntata, iscriviti alla nostra community Microsoft 
 
 A presto!
 
-Il tuo IT Specialist,
-Riccardo
+Il tuo IT Specialist, Riccardo

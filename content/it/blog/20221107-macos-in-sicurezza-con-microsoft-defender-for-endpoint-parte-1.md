@@ -7,7 +7,6 @@ tags: [ "macOS","Microsoft Defender for Endpoint","Intune" ]
 title: "macOS in sicurezza con Microsoft Defender for Endpoint – Parte 1"
 url: macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-1
 ---
-
 Primo video di una serie di tre in cui ti racconto come mettere in sicurezza macOS sfruttando gli strumenti messi a disposizione da Microsoft Defender for Endpoint e Intune.
 
 In questo episodio vedremo i requisiti di sistema e di licensing di Microsoft Defender for Endpoint per macOS, come distribuirlo e l’onboarding automatico.
