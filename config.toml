@@ -94,3 +94,8 @@ url = "https://youtube.com/@ITSpecialistCloud"
 name = "mastodon"
 url = "https://mastodon.uno/@riccardocorna"
 color = "#595AFF"
+
+[[params.ananke_socials]]
+name = "ko-fi"
+url = "https://ko-fi.com/riccardocorna"
+color = "#00B0F1"
