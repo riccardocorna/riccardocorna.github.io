@@ -21,7 +21,7 @@ other = "Cosa c'è in {{ .Type }}"
 
 [related]
 #other = "Correlati"
-other = "Leggi anche...asdasdasdasdsa"
+other = "Leggi anche..."
 
 [yourName]
 other = "Il tuo nome"
