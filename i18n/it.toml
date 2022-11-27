@@ -2,13 +2,16 @@
 other = "Altro"
 
 [allTitle]
-other = "Tutti {{.Title }}"
+#other = "Tutti {{.Title }}"
+other = "Tutti gli articoli"
 
 [recentTitle]
-other = "Recenti {{.Title }}"
+#other = "Recenti {{.Title }}"
+other = "Articoli recenti"
 
 [readMore]
-other = "leggi di più"
+#other = "leggi di più"
+other = "continua a leggere"
 
 [by]
 other = "Da"
@@ -17,7 +20,8 @@ other = "Da"
 other = "Cosa c'è in {{ .Type }}"
 
 [related]
-other = "Correlati"
+#other = "Correlati"
+other = "Leggi anche...asdasdasdasdsa"
 
 [yourName]
 other = "Il tuo nome"
@@ -35,7 +39,8 @@ other = "Indirizzo email obbligatorio."
 other = "Invia"
 
 [taxonomyPageList]
-other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+#other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
+other = " "
 
 [pageTitle]
 other = "{{ .Name }} pagina"
