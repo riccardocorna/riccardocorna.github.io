@@ -30,39 +30,44 @@ enableRobotsTXT = false
 [menu]
 [[menu.main]]
   identifier = "about"
-  name = "About"
+  name = "whoami"
   url = "/about"
   weight = 2
 [[menu.main]]
-  identifier = "identity-security"
-  name = "Identity & Security"
-  url = "/categories/identity-security"
+  identifier = "eventi-community"
+  name = "eventi"
+  url = "/categories/eventi-community"
   weight = 3
 [[menu.main]]
-  identifier = "eventi-community"
-  name = "Eventi & Community"
-  url = "/categories/eventi-community"
+  identifier = "identity-security"
+  name = "identity & security"
+  url = "/categories/identity-security"
   weight = 4
 [[menu.main]]
   identifier = "modern-endpoint"
-  name = "Modern Endpoint"
+  name = "modern endpoint"
   url = "/categories/modern-endpoint"
   weight = 5
 [[menu.main]]
-  identifier = "altro"
-  name = "Altro"
-  url = "/categories/altro"
+  identifier = "cloud-datacenter"
+  name = "cloud datacenter"
+  url = "/categories/cloud-datacenter"
   weight = 6
 [[menu.main]]
-  identifier = "divagazioni"
-  name = "Divagazioni"
-  url = "/categories/divagazioni"
+  identifier = "altro"
+  name = "altro"
+  url = "/categories/altro"
   weight = 7
 [[menu.main]]
-  identifier = "privacy-policy"
-  name = "Privacy Policy"
-  url = "https://www.iubenda.com/privacy-policy/37879840"
+  identifier = "divagazioni"
+  name = "divagazioni"
+  url = "/categories/divagazioni"
   weight = 8
+[[menu.main]]
+  identifier = "privacy-policy"
+  name = "privacy policy"
+  url = "https://www.iubenda.com/privacy-policy/37879840"
+  weight = 9
 
 [params]
   text_color = ""
@@ -88,3 +93,4 @@ url = "https://youtube.com/@ITSpecialistCloud"
 [[params.ananke_socials]]
 name = "mastodon"
 url = "https://mastodon.uno/@riccardocorna"
+color = "#595AFF"
