@@ -3,7 +3,7 @@ date: 2022-11-28T09:00:00-00:00
 description: "#POWERCON2022 è un evento online che affronta temi riguardanti il Modern Workplace, la sicurezza delle infrastrutture e la gestione moderna dei dispositivi."
 featured_image: "/images/Powercon-Online-2022-Dic.jpg"
 categories : "Eventi & Community"
-tags: [ "POWERCON","Evento" ]
+tags: [ "POWERCON","Eventi" ]
 title: "Sarò speaker al POWERCON2022 del 6 Dicembre 2022!"
 url: /riccardo-corna-speaker-powercon2022-6-dicembre-2022
 ---
