@@ -17,6 +17,11 @@ Adoro il Rock, il Punk e l'Indie music, le T-Shirt stupide, le patatine nel sacc
 ## Le mie competenze
 Negli anni mi sono occupato prevalentemente di tecnologie **Microsoft**. In particolare, lavoro su **Microsoft 365**, **Azure**, **Active Directory**.
 
+Grazie alle mie attività su questo blog relative a questi argomenti, sono stato premiato come **Microsoft MVP (Most Valuable Professional)**: ecco il mio profilo.
+{{< rawhtml >}}
+  <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
+{{< / rawhtml >}}
+
 Sotto sotto, però, il mio cuore è a forma di Mela e ho maturato una buona esperienza nell’integrazione di tecnologie e dispositivi **Apple** in ambito aziendale.
 
 Dedico sempre una parte del mio tempo allo studio perché ritengo che la formazione continua sia uno strumento indispensabile per sviluppare le proprie competenze oltre che la necessaria adattabilità ai cambiamenti tecnologici e organizzativi di oggi.
