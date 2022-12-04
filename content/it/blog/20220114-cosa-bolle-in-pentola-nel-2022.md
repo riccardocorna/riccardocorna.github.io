@@ -1,5 +1,5 @@
 ---
-date: 2022-01-17ì4T08:00:00-00:00
+date: 2022-01-14T08:00:00-00:00
 description: "Riflessioni sparse su che direzione ho intenzione di intraprendere su blog e Linkedin in questo 2022. Cosa bolle in pentola?"
 featured_image: "/images/01-2022.jpg"
 categories: [ "Divagazioni" ]
