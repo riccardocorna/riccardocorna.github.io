@@ -10,17 +10,17 @@ Mi chiamo **Riccardo Corna** e sono un IT Specialist Microsoft dal cuore a forma
 ## Vuoi saperne di più? Ok!
 Lavoro in [Microsys](https://msys.it), società partner di Microsoft, e ricopro il ruolo di **Senior Consultant** nell’area **Systems infrastructure and Security**. Ho oltre 15 anni di esperienza su tecnologie Microsoft e, nel mio attuale ruolo, disegno ed implemento soluzioni cloud basate su **Microsoft 365** ed **Azure** per i clienti, secondo un approccio **Zero Trust Security**. Svolgo il mio lavoro con passione e il mio obiettivo è far sì che il funzionamento ottimale degli strumenti informatici diventi un fattore decisivo per il successo del cliente e dell’azienda.
 
+Grazie alle attività di divulgazione svolte attraverso questo blog, sono stato premiato come **Microsoft MVP (Most Valuable Professional)** nella categoria **Security**: ecco il mio profilo.
+{{< rawhtml >}}
+  <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
+{{< / rawhtml >}}
+
 Al di fuori del lavoro non disdegno qualche incursione nel mondo del **web** e della **fotografia** e sono letteralmente stregato da tutto ciò che riguarda **comunicazione** e **crescita personale**.
 
 Adoro il Rock, il Punk e l'Indie music, le T-Shirt stupide, le patatine nel sacchetto. 🤤
 
 ## Le mie competenze
 Negli anni mi sono occupato prevalentemente di tecnologie **Microsoft**. In particolare, lavoro su **Microsoft 365**, **Azure**, **Active Directory**.
-
-Grazie alle mie attività su questo blog relative a questi argomenti, sono stato premiato come **Microsoft MVP (Most Valuable Professional)**: ecco il mio profilo.
-{{< rawhtml >}}
-  <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
-{{< / rawhtml >}}
 
 Sotto sotto, però, il mio cuore è a forma di Mela e ho maturato una buona esperienza nell’integrazione di tecnologie e dispositivi **Apple** in ambito aziendale.
 
