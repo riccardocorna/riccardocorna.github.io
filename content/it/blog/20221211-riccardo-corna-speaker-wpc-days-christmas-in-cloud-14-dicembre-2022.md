@@ -15,7 +15,7 @@ url: /riccardo-corna-speaker-wpc-days-christmas-in-cloud-14-dicembre-2022
 
 **La mia sessione si terrà alle 11.30.**
 
-📌 Per iscriverti e per tutti gli altri dettagli:
+📌 Per iscriverti e per tutti gli altri dettagli:  
 ➡️ [WPC Days Christmas in Cloud](https://www.eventbrite.it/e/biglietti-wpc-day-3-a-christmas-day-in-cloud-463473440537)
 
 🎤 Oltre a me, ci saranno 11 speaker suddivisi in 4 track (IT Pro & Security, Development, Data Platform, Microsoft 365 & Power Platform): ce n’è per tutti gli interessi e tutti i gusti. 
