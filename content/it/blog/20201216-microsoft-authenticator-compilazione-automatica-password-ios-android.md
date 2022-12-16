@@ -3,7 +3,7 @@ date: 2020-12-16T08:00:00-00:00
 description: "Microsoft Authenticator guadagna una nuova feature importantissima: potrà compilare automaticamente le password su smartphone iOS e Android."
 featured_image: "/images/01-Microsoft-Authenticator-autofill-password-Android.jpg"
 categories: [ "Identity & Security"]
-tags: [ "Microsoft Authenticator", "Android" ]
+tags: [ "Microsoft Authenticator", "Android", "News" ]
 title: "Microsoft Authenticator compilerà in automatico le password su iOS e Android (public preview)"
 url: "/microsoft-authenticator-compilazione-automatica-password-ios-android"
 ---
