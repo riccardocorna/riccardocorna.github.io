@@ -1,11 +1,11 @@
 ---
 title: "Chi sono"
 description: "Riccardo Corna"
-featured_image: '/images/riccardo-corna-it-specialist-milano-1024px-16.jpg'
+featured_image: './images/RiccardoCorna.jpg'
 omit_header_text: true
 ---
 Mi chiamo **Riccardo Corna** e sono un IT Specialist Microsoft dal cuore a forma di Apple. Su questo blog condivido frammenti di vita informatica vissuta.
-{{< figure src="./images/riccardo-corna-it-specialist-milano-1024px-16.jpg" width="500" >}}
+{{< figure src="./images/RiccardoCorna.jpg" width="500" >}}
 
 ## Vuoi saperne di più? Ok!
 Lavoro in [Microsys](https://msys.it), società partner di Microsoft, e ricopro il ruolo di **Senior Consultant** nell’area **Systems infrastructure and Security**. Ho oltre 15 anni di esperienza su tecnologie Microsoft e, nel mio attuale ruolo, disegno ed implemento soluzioni cloud basate su **Microsoft 365** ed **Azure** per i clienti, secondo un approccio **Zero Trust Security**. Svolgo il mio lavoro con passione e il mio obiettivo è far sì che il funzionamento ottimale degli strumenti informatici diventi un fattore decisivo per il successo del cliente e dell’azienda.
