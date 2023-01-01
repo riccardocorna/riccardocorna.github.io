@@ -63,11 +63,16 @@ enableRobotsTXT = false
   name = "divagazioni"
   url = "/categories/divagazioni"
   weight = 8
+  [[menu.main]]
+  identifier = "archivio"
+  name = "archivio"
+  url = "/categories/archivio"
+  weight = 9
 [[menu.main]]
   identifier = "privacy-policy"
   name = "privacy policy"
   url = "https://www.iubenda.com/privacy-policy/37879840"
-  weight = 9
+  weight = 10
 
 [params]
   text_color = ""
