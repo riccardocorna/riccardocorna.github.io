@@ -79,7 +79,7 @@ enableRobotsTXT = true
   author = ""
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Tutorial e appunti di vita informatica vissuta su Windows, Azure, Microsoft 365. Un blog di Riccardo Corna, IT Specialist con oltre 15 anni di esperienza."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   #body_classes = "sans-serif bg-near-white"
   #post_content_classes = "serif"
