@@ -13,7 +13,7 @@ Ultima settimana di Maggio intensissima e ricchissima di soddisfazioni! Ho avuto
 
 {{< rawhtml >}}
   <p class="tc">
-    <iframe src="https://pixelfed.uno/p/riccardocorna/515222701316984275/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="500" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.uno/embed.js"></script>
+    <iframe src="https://pixelfed.uno/p/itspecialist/515523553935752360/embed?caption=true&likes=false&layout=full" class="pixelfed__embed" style="max-width: 100%; border: 0" width="500" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.uno/embed.js"></script>
   </p>
 {{< / rawhtml >}}
 
