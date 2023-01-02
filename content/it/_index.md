@@ -11,7 +11,7 @@ cascade:
   <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Secondary_Black_RGB.jpg"></a><br />Riccardo Corna</p>
 {{< / rawhtml >}}
 
-Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o cercali direttamente da qui.
+Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o fai una ricerca sull'argomento che ti interessa.
 
 {{< rawhtml >}}
   <p class="b tc">
