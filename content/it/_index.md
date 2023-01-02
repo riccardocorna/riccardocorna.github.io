@@ -11,4 +11,20 @@ cascade:
   <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Secondary_Black_RGB.jpg"></a><br />Riccardo Corna</p>
 {{< / rawhtml >}}
 
-Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Inizia subito e in maniera gratuita ad espandere le tue competenze digitali sfogliando i miei articoli.
+Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o cercali direttamente da qui.
+
+{{< rawhtml >}}
+  <p class="b tc">
+    <form method="get" id="ddgSearch" action="https://duckduckgo.com/">
+      <input type="hidden" name="sites" value="itspecialist.cloud"/>
+      <input type="hidden" name="k7" value="#ffffff"/>
+      <input type="hidden" name="k8" value="#222222"/>
+      <input type="hidden" name="k9" value="#326ed2"/>
+      <input type="hidden" name="kx" value="#000000"/>
+      <input type="hidden" name="kj" value="#fafafa"/>
+      <input type="hidden" name="kt" value="h"/>
+      <input type="text" name="q" placeholder="" aria-label="Search itspecialist.cloud on DuckDuckGo"/>
+      <button type="submit">Cerca</button>
+    </form>
+  </p>
+{{< / rawhtml >}}
