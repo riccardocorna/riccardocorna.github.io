@@ -1,0 +1,14 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+    <div class="flex justify-between">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
+      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+    </a>
+    <div>
+        <a title="Privacy-friendly Web Analytics" href="https://clicky.com/101392430"><img alt="Clicky" src="https://static.getclicky.com/media/links/badge.gif" border="0" /></a>
+        <script async src="https://static.getclicky.com/101392430.js"></script>
+        <noscript><p><img alt="Clicky" width="1" height="1" src="https://in.getclicky.com/101392430ns.gif" /></p></noscript>
+    </div>  
+    <div>{{ partial "social-follow.html" . }}</div>
+    </div>
+  </footer>
+  
