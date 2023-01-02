@@ -14,9 +14,8 @@
   Use Hugo's native related content feature to pull in content that may have similar parameters, like tags. etc.
   https://gohugo.io/content-management/related/
 */}}
-
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3">Cerca contenuti</p>
+    <p class="f5 b mb3">Trova contenuti</p>
     <form method="get" id="ddgSearch" action="https://duckduckgo.com/">
       <input type="hidden" name="sites" value="itspecialist.cloud"/>
       <input type="hidden" name="k7" value="#ffffff"/>
@@ -25,14 +24,20 @@
       <input type="hidden" name="kx" value="#000000"/>
       <input type="hidden" name="kj" value="#fafafa"/>
       <input type="hidden" name="kt" value="h"/>
-      <input type="text" name="q" placeholder="Di cosa hai bisogno?" aria-label="Search itspecialist.cloud on DuckDuckGo"/>
+      <input type="text" name="q" placeholder="" aria-label="Search itspecialist.cloud on DuckDuckGo"/>
       <button type="submit">Cerca</button>
-  </form>
+    </form>
+  </div>
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Seguimi!</p>
+    <p class="tc">{{ partialCached "social-follow.html" . }}</p>
   </div>
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
     <p class="f5 b mb3">Riccardo Corna | Microsoft MVP</p>
-    <p class="tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a></p>
+    <p class="tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Preferred_Blue3005_RGB.png"></a></p>
   </div>
+
+
 
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 
