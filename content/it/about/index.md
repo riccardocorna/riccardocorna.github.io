@@ -7,7 +7,7 @@ aliases:
   - /riccardo-corna/
   - /riccardocorna/
 ---
-Mi chiamo **Riccardo Corna** e sono un IT Specialist Microsoft dal cuore a forma di Apple. Su questo blog condivido frammenti di vita informatica vissuta.
+Mi chiamo **Riccardo Corna** e sono un IT Specialist. Lavoro su tecnologie Microsoft dal cuore a forma di Apple. Su questo blog condivido frammenti di vita informatica vissuta.
 {{< figure src="./images/RiccardoCorna.jpg" width="500" >}}
 
 ## Vuoi saperne di più? Ok!
