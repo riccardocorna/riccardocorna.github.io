@@ -6,7 +6,7 @@ theme = "ananke"
 DefaultContentLanguage = "it"
 #SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+#googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
@@ -77,7 +77,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "favicon.png"
   site_logo = ""
   description = "Tutorial e appunti di vita informatica vissuta su Windows, Azure, Microsoft 365. Un blog di Riccardo Corna, IT Specialist con oltre 15 anni di esperienza."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

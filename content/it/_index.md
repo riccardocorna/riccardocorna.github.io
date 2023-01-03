@@ -14,7 +14,7 @@ cascade:
 Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o fai una ricerca sull'argomento che ti interessa.
 
 {{< rawhtml >}}
-  <p class="b tc">
+  <p class="tc">
     <form method="get" id="ddgSearch" action="https://duckduckgo.com/">
       <input type="hidden" name="sites" value="itspecialist.cloud"/>
       <input type="hidden" name="k7" value="#ffffff"/>
