@@ -1,5 +1,5 @@
 ---
-date: 2023-01-11T09:00:00-00:00
+date: 2023-01-11T08:00:00-00:00
 description: "Terzo episodio di una mini-serie in cui vedremo come sfruttare gli strumenti di Defender for Endpoint per mettere in sicurezza macOS."
 featured_image: "/images/cover-macos-sicurezza-mde-intune-parte3.png"
 categories : "Identity & Security"
