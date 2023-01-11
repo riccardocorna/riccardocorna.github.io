@@ -15,6 +15,7 @@ Vedremo altre impostazioni di sicurezza e un piano di hardening generato automat
 
 Ecco i riferimenti per gli altri episodi della serie:
 - [Parte 1](/macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-1)
+- [Parte 3](/macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-3)
 
 E tu usi Microsoft Defender for Endpoint per macOS? Se sì, quali funzionalità stai sfruttando? Parliamone insieme sui miei profili social!
 

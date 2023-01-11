@@ -15,6 +15,7 @@ In questo episodio vedremo i requisiti di sistema e di licensing di Microsoft De
 
 Ecco i riferimenti per gli altri episodi della serie:
 - [Parte 2](/macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-2)
+- [Parte 3](/macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-3)
 
 Ti aspetto sul mio canale Youtube: iscriviti!
 

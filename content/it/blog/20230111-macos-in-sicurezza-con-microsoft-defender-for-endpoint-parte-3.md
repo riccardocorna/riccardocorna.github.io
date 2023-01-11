@@ -15,6 +15,10 @@ Dopo aver visto come distribuire e configurare MDE per macOS nei precedenti vide
 
 Con oggi termina questa miniserie di tre episodi: fammi sapere se ti è piaciuta lasciando un commento!
 
+Se vuoi rivedere anche gli altri episodi:
+- [Parte 1](/macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-1)
+- [Parte 2](/macos-in-sicurezza-con-microsoft-defender-for-endpoint-parte-2)
+
 Se vuoi seguire contenuti come questo, iscriviti al mio canale YouTube: ti aspetto!
 
 ➡️ https://www.youtube.com/@ITSpecialistCloud
