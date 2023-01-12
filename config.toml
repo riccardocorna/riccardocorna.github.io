@@ -101,6 +101,11 @@ url = "https://mastodon.uno/@riccardocorna"
 color = "#595AFF"
 
 [[params.ananke_socials]]
+name = "sessionize"
+url = "https://sessionize.com/riccardocorna/"
+color = "#1AB394"
+
+[[params.ananke_socials]]
 name = "ko-fi"
 url = "https://ko-fi.com/riccardocorna"
 color = "#00B0F1"
