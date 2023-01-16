@@ -9,18 +9,17 @@ url: /defender-for-endpoint-asr-shortcut-links-cancellati-gennaio-2023
 ---
 L'aggiornamento di Defender del 13 gennaio 2023 (KB2267602 - versione 1.381.2140.0) ha causato alcuni problemi su shortcut e link salvati su Desktop e menu Start, cancellandoli o rendendoli non più funzionanti. Inoltre, con una particolare regola di ASR (**Block Win32 API calls from Office macro**) settata su **Block**, alcune applicazioni venivano bloccate.
 
-Un primo workaround prevede di impostare questa regola a livello **Audit**.
+A riguardo della regola di ASR, un primissimo workaround prevedeva di impostare la regola **Block Win32 API calls from Office macro** a livello **Audit**.
 
 [![Block Win32 API calls from Office Macro](/images/20220115-asr-rule.png)](/images/20220115-asr-rule.png)
 
-Al momento in cui leggerai questo articolo, però, non dovrebbe più servire perchè Microsoft già da venerdì ha avviato un rollback.  
-Per tutti i dettagli del caso, Microsoft ha aperto una comunicazione ad-hoc sul portale di Microsoft 365: **MO497128**.
+Al momento in cui leggerai questo articolo, però, non dovrebbe più servire perchè Microsoft già da venerdì ha avviato un rollback e aperto una comunicazione ad-hoc sul portale di Microsoft 365: **MO497128**.
 
 {{< rawhtml >}}
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re investigating an issue where users are unable to access application shortcuts on the Start menu and Taskbar in Windows. For more details and updates, please follow the SI MO497128 in your admin center.</p>&mdash; Microsoft 365 Status (@MSFT365Status) <a href="https://twitter.com/MSFT365Status/status/1613871552256155649?ref_src=twsrc%5Etfw">January 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{< / rawhtml>}}
 
-Al momento in cui leggerai questo articolo, il problema dovrebbe essere già rientrato: Microsoft infatti, una volta presa coscienza del problema, ha fatto un rollback sulle modifiche fatte e ha rilasciato una procedura di ripristino di eventuali shortcut cancellati.
+A riguardo della problematica dei link/shortcut cancellati, è stata pubblicata una remediation.
 
 {{< rawhtml >}}
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve confirmed steps to recreate start menu links for a significant sub-set of the affected applications that were deleted. Please visit <a href="https://t.co/FYLP1Jvg7Y">https://t.co/FYLP1Jvg7Y</a> for further guidance. Further updates can be found in the admin center under MO497128.</p>&mdash; Microsoft 365 Status (@MSFT365Status) <a href="https://twitter.com/MSFT365Status/status/1614187668723613702?ref_src=twsrc%5Etfw">January 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
