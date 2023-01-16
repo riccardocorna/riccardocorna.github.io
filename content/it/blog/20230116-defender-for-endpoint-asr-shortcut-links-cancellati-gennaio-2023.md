@@ -28,6 +28,7 @@ A riguardo della problematica dei link/shortcut cancellati, è stata pubblicata 
 Se sei stato impattato dal problema, ho raccolto per te alcune risorse per ripristinare tutti i link e gli shortcut cancellati:
 - [Recovering from Attack Surface Reduction rule shortcut deletions](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/recovering-from-attack-surface-reduction-rule-shortcut-deletions/ba-p/3716011) (Fornita direttamente da Microsoft)
 - [Identifying and restoring shortcuts to start menu from Microsoft incident MO497128](https://cloudscript.tech/2023/01/13/breakfix-for-microsoft-si-mo497128-deleting-shortcuts/) (Un'altra procedura di recovery utile non ufficiale)
+- [How to implement a gradual (ring) rollout-process for Microsoft Defender updates](https://mortenknudsen.net/?p=737) (Grazie a [Gabriele Ambrosi](https://www.linkedin.com/in/gabriele-ambrosi/) per la segnalazione)
 
 In bocca al lupo!
 
