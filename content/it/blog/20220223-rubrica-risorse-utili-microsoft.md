@@ -23,7 +23,7 @@ Di seguito troverai una prima raccolta delle migliori risorse utili Microsoft ri
 
 {{< rawhtml >}}
   <p class="tc f2 lh-copy">
-    Ultimo update: 23/02/2022
+    Ultimo update: 18/01/2023
   </p>
 {{< /rawhtml >}}
 
@@ -51,6 +51,7 @@ Ecco le migliori risorse da cui recuperare notizie e consigli riguardanti la pia
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/) (Sito web): una collezione di oltre 200 tra consigli, video, tutorial, tutti derivati da situazione reali di vita in cloud vissuta sul campo;
 - [Microsoft Azure Channel](https://www.youtube.com/user/windowsazure/videos) (canale YouTube): se preferisci aggiornarti coi video anziché con risorse testuali, questo canale fa per te. Imperdibile la serie a episodi "Microsoft Cloud Adoption Framework for Azure";
 - [Microsoft Tech Community Blog (Azure)](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure) (Sito web/Feed RSS): qui ci sono tutti i blog post che contengono annunci di nuove funzionalità in preview o in general availability e, spesso, anche articoli tecnici contenenti best practice. Questa risorsa è una tra le più preziose!
+-[Thomas Maurer](https://youtube.com/@Thomas_Maurer) (YouTube): se si parla di cloud e datacenter ibridi, non si può prescindere dal canale di Thomas Maurer, Senior PM Hybrid Cloud per Microsoft.
 
 ## Windows
 Ecco le fonti da cui attingo notizie ed informazioni riguardanti Windows:
@@ -63,6 +64,7 @@ Altre fonti utili su tecnologie cloud e on-premises:
 - [4SysOps](https://4sysops.com/) (Sito web): un’istituzione che non ha bisogno di presentazioni 🙂
 - [Code Samples](https://docs.microsoft.com/en-us/samples/browse/) (Sito web): una galleria indispensabile di esempi di codice per qualunque esigenza (Powershell, Pyton, ecc), catalogati per prodotto. Risorsa fondamentale;
 - [johnthebrit](https://github.com/johnthebrit) (John Savill) · GitHub (Sito web): una raccolta di video impressionante che spazia su tantissime certificazioni Microsoft. Sicuramente tra i migliori materiali di studio presenti in Rete a questo riguardo!
+- [NTFAQGuy](https://youtube.com/@NTFAQGuy) (YouTube): sempre John Savill, questo è il suo cnale YouTube.
 
 ## Ringraziamenti
-Per le risorse aggiunte vorrei ringraziare [Ottavio De Marco](https://www.linkedin.com/in/ottaviodemarco/), [Alessandro Foschi](https://www.linkedin.com/in/alessandrofoschi/), [Riccardo Cozzi](https://www.linkedin.com/in/riccardo-cozzi-7170039/), [Stefano Nieri](https://www.linkedin.com/in/stefanonieri/).
+Per le risorse aggiunte vorrei ringraziare [Ottavio De Marco](https://www.linkedin.com/in/ottaviodemarco/), [Alessandro Foschi](https://www.linkedin.com/in/alessandrofoschi/), [Riccardo Cozzi](https://www.linkedin.com/in/riccardo-cozzi-7170039/), [Stefano Nieri](https://www.linkedin.com/in/stefanonieri/), [Fabrizio Giovannetti](https://www.linkedin.com/in/fabrizio-giovannetti-0132301a/).
