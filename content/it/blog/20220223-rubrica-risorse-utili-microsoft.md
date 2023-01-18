@@ -51,7 +51,7 @@ Ecco le migliori risorse da cui recuperare notizie e consigli riguardanti la pia
 - [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/) (Sito web): una collezione di oltre 200 tra consigli, video, tutorial, tutti derivati da situazione reali di vita in cloud vissuta sul campo;
 - [Microsoft Azure Channel](https://www.youtube.com/user/windowsazure/videos) (canale YouTube): se preferisci aggiornarti coi video anziché con risorse testuali, questo canale fa per te. Imperdibile la serie a episodi "Microsoft Cloud Adoption Framework for Azure";
 - [Microsoft Tech Community Blog (Azure)](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure) (Sito web/Feed RSS): qui ci sono tutti i blog post che contengono annunci di nuove funzionalità in preview o in general availability e, spesso, anche articoli tecnici contenenti best practice. Questa risorsa è una tra le più preziose!
--[Thomas Maurer](https://youtube.com/@Thomas_Maurer) (YouTube): se si parla di cloud e datacenter ibridi, non si può prescindere dal canale di Thomas Maurer, Senior PM Hybrid Cloud per Microsoft.
+- [Thomas Maurer](https://youtube.com/@Thomas_Maurer) (YouTube): se si parla di cloud e datacenter ibridi, non si può prescindere dal canale di Thomas Maurer, Senior PM Hybrid Cloud per Microsoft.
 
 ## Windows
 Ecco le fonti da cui attingo notizie ed informazioni riguardanti Windows:
