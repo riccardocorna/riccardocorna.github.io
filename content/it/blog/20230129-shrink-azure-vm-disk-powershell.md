@@ -1,5 +1,5 @@
 ---
-date: 2023-02-01T08:00:00-00:00
+date: 2023-01-29T08:00:00-00:00
 description: "Come ridurre le dimensioni del disco di una virtual machine su Azure con PowerShell e risparmiare sui costi di storage."
 featured_image: "/images/01-shrink-azure-vm-disk.png"
 categories : ["Cloud Datacenter"]
