@@ -7,11 +7,13 @@ tags: [ "Azure", "Virtual Machine", "PowerShell" ]
 title: "Ridurre le dimensioni del disco di una VM Azure con PowerShell"
 url: /shrink-azure-vm-disk-powershell
 ---
-Shrink del disco di una VM in Azure per risparmiare sui costi di storage? Con qualche martellata qua e là, un po' di PowerShell, si può fare. Oggi esco un pochino dalla mia zona di confort. 😉
+Shrink del disco di una VM in Azure per risparmiare sui costi di storage? Con qualche martellata qua e là e un po' di PowerShell, si può fare. 
+
+Oggi esco un pochino dal perimetro degli argomenti che tratto solitamente. 😉
 
 Qualche giorno fa stavo dando un'occhiata al consumo della mia sottoscrizione di laboratorio e ho notato che i costi dei dischi si mangiavano una buona fetta del mio (risicato) budget mensile.
 
-La cosa non mi andava particolarmente a genio, dato che le poche VM che uso sono quasi sempre spente e l'occupazione reale di disco era ridicola in relazione alla grandeza dei dischi (Standard SSD, E10 da 128GB).
+La cosa non mi andava particolarmente a genio, dato che le poche VM che uso sono quasi sempre spente e l'occupazione reale di disco era ridicola in relazione alla grandezza dei dischi (Standard SSD, E10 da 128GB).
 
 Quindi mi sono detto:
 
