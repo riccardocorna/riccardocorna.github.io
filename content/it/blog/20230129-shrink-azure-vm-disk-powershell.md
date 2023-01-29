@@ -23,7 +23,7 @@ Quindi mi sono detto:
 
 E così mi sono messo a scandagliare la rete in cerca di qualcosa di utile che, infine, ho trovato. Ecco qua una bellissima procedura per ridurre la dimensione dei dischi di una VM Azure:
 
-➡️ [Shrink an Azure VMs OS Managed Disk using PowerShell](https://jrudlin.github.io/2019-08-27-s)
+➡️ [Shrink an Azure VMs OS Managed Disk using PowerShell](https://jrudlin.github.io/2019-08-27-shrink-azure-vm-osdisk/)
 
 ***Nota bene***: ***chiaramente la procedura è da valutare in maniera molto attenta in ambienti di produzione critici e che prevedano configurazioni particolari sui managed disk. Lo script viene fornito dall'autore "as-is", senza garanzie di alcun tipo.*** 
 
