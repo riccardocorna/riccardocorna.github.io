@@ -11,6 +11,8 @@ Shrink del disco di una VM in Azure per risparmiare sui costi di storage? Con qu
 
 Oggi esco un pochino dal perimetro degli argomenti che tratto solitamente. 😉
 
+![Resize dei dischi su un server Windows](/images/01-shrink-azure-vm-disk.png)
+
 Qualche giorno fa stavo dando un'occhiata al consumo della mia sottoscrizione di laboratorio e ho notato che i costi dei dischi si mangiavano una buona fetta del mio (risicato) budget mensile.
 
 La cosa non mi andava particolarmente a genio, dato che le poche VM che uso sono quasi sempre spente e l'occupazione reale di disco era ridicola in relazione alla grandezza dei dischi (Standard SSD, E10 da 128GB).
