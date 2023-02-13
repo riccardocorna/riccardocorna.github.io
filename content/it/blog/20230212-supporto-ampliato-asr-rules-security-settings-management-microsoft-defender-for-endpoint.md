@@ -9,6 +9,8 @@ url: /supporto-ampliato-asr-rules-security-settings-management-microsoft-defende
 ---
 Novità interessante in Public Preview per in ambito Security Settings Management di Microsoft Defender for Endpoint: è stato ampliato il supporto alle regole di Attack Surface Reduction in questa modalità.
 
+[![Security Settings Management](/images/endpoint-security-overview.png)](/images/endpoint-security-overview.png)
+
 Cos'è il "Security Settings Management" in Microsoft Defender for Endpoint?
 È una modalità di gestione delle impostazioni di sicurezza di MDE realizzata per fare in modo di poterle distribuire via Intune anche per quei dispositivi che non sono "enrollati"/"enrollabili", come ad esempio macchine Windows Server, eccetera.
 È una buona alternativa alle GPO e l'indubbio vantaggio è quello di poter gestire la distribuzione delle policy di sicurezza da un unico punto centralizzato, ovvero Intune, anziché usare, ad esempio, le GPO di Active Directory. Funziona bene anche per macchine standalone che non sono a dominio, per esempio.
