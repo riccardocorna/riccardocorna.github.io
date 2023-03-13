@@ -7,7 +7,7 @@ tags: [ "Evento", "Video", "Azure AD","Intune" ]
 title: "Disponibili le sessioni tenute all'evento di community del 8 Marzo 2023"
 url: /video-evento-community-8-marzo-2023-disponibile
 ---
-L'8 Marzo 2023 si è tenuto un evento congiunto tra le community [Microsoft Intune Italian Users Group]() e [Microsoft Security Italian Users Group](): è ora disponibile il video delle sessioni.
+L'8 Marzo 2023 si è tenuto un evento congiunto tra le community [Microsoft Intune Italian Users Group](https://www.linkedin.com/groups/9007892/) e [Microsoft Security Italian Users Group](https://www.linkedin.com/groups/9051256/): è ora disponibile il video delle sessioni.
 
 {{< youtube Dui_zQnQwpo >}}
 
