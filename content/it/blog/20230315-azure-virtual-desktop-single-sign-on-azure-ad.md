@@ -1,5 +1,5 @@
 ---
-date: 2023-03-15T08:00:00-00:00
+date: 2023-03-15T07:00:00-00:00
 description: "Finalmente arriva su Azure Virtual Desktop la possibilità di fare Single Sign-On su Azure AD. In questo video vedremo come, usando persino una chiavetta di sicurezza FIDO2."
 featured_image: "/images/01-azure-virtual-desktop-single-sign-on-azure-ad.png"
 categories : ["Identity & Security"]
