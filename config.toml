@@ -97,7 +97,7 @@ url = "https://youtube.com/@ITSpecialistCloud"
 
 [[params.ananke_socials]]
 name = "mastodon"
-url = "https://mastodon.insicurezzadigitale.com/@itspecialistcloud"
+url = "https://mastodon.uno/@itspecialistcloud"
 color = "#595AFF"
 
 [[params.ananke_socials]]
