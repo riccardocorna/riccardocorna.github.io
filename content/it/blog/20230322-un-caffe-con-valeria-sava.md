@@ -24,7 +24,7 @@ E, se non siete ancora sazi, ecco altro materiale utilissimo di cui abbiamo parl
 
 Non dimenticate di iscrivervi ai nostri canali:
    
-🔒 [Linkedin](https://www.linkedin.com/groups/9051256/)
+🔒 [Linkedin](https://www.linkedin.com/groups/9051256/)  
 📺 [YouTube](https://www.youtube.com/@microsoftsecurityitalianus7402)    
 🎙️ [Spotify podcasts](https://open.spotify.com/show/6DYut6ML56sjtLJB6YGI7i)  
 🎙️ [Google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83ZjFhMjQ3NC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwjRsPbfnOP1AhW2yLsIHRYcDwkQ9sEGegQIARAC)  
