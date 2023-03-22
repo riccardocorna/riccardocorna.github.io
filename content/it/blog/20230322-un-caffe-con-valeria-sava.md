@@ -4,7 +4,7 @@ description: "Oggi il caffè lo beviamo insieme a Valeria Sava, Strategy Product
 featured_image: "/images/01-un-caffe-con-valeria-sava.png"
 categories : ["Eventi & Community"]
 tags: [ "Un caffè con", "ADFS", "Azure AD", "Video" ]
-title: "Un caffè con Valeria Sava"
+title: "Un caffè con... Valeria Sava"
 url: /un-caffe-conm-valeria-sava
 ---
 L’episodio di oggi è davvero un’iniezione di caffeina e di risorse utili: [Valeria Sava](https://www.linkedin.com/in/valeria-sava/) ci parla di ADFS e di come dismetterlo, migrando le applicazioni verso Azure AD. 
