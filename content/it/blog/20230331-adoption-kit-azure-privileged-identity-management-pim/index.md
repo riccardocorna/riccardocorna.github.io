@@ -9,6 +9,8 @@ url: "/adoption-kit-azure-privileged-identity-management-pim"
 ---
 Venerdì Risorsa! Se non avete mai usato Azure Privileged Identity Management (PIM), oggi ho raccolto per voi uno splendido Adoption Kit che vi consentirà di partire "pronti-via" ed impostare la vostra strategia di gestione degli accessi privilegiati e di accesso Just-In-Time.
 
+![Azure Privileged Identity Management](/images/01-pim-quickstart.png)
+
 Cos'è PIM? Azure Privileged Identity Management (PIM) è un servizio di Azure che consente di gestire e monitorare gli accessi privilegiati alle risorse di Azure, come ad esempio quelle di Azure Active Directory (AD), di Azure Resource Manager e via discorrendo. PIM consente anche di ridurre il rischio di accessi non autorizzati e di soddisfare i requisiti normativi relativi alle utenze privilegiate.
 
 Potete scaricare dal link qui sotto l’Adoption Kit di PIM.
