@@ -2,7 +2,7 @@
 date: 2023-03-29T07:00:00-00:00
 description: "Ci sono tre modi diversi di configurare BitLocker attraverso Intune: oggi esploriamo come fare attraverso il Settings Catalog di Intune."
 featured_image: "/images/01-BitLocker-Intune-Settings-Catalog.png"
-categories : ["Modern Endpoint", "Identity & Security"]
+categories : [ "Modern Endpoint", "Identity & Security" ]
 tags: [ "BitLocker", "Intune", "Video" ]
 title: "Configurare BitLocker via Intune con il Settings Catalog"
 url: /azure-virtual-desktop-single-sign-on-azure-ad
