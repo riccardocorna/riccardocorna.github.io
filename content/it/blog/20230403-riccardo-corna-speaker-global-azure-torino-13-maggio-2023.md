@@ -1,5 +1,5 @@
 ---
-date: 2023-04-03T09:00:00-00:00
+date: 2023-04-03T07:00:00-00:00
 description: "Sarò speaker all'evento Global Azure che si terrà a Torino il 13 Maggio 2023"
 featured_image: "/images/1680011811006.jpeg"
 categories : ["Eventi & Community"]
