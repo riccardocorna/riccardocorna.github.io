@@ -17,6 +17,6 @@ Da capire: qualità audio, visto che uso il microfono integrato, e la stabilizza
 Su quest'ultimo punto l'incognita maggiore: la fotocamera ha un minimo di stabilizzazione ma non è fatta per "vloggare" mentre si cammina e l'obiettivo non ce l'ha proprio.
 Credo che userò la funzionalità di stabilizzazione del Catalyst Browse di Sony, una volta importato il video sul Mac.
 
-Vediamo cosa ne uscirà 😃
+Vediamo cosa ne uscirà... 😃
 
 Riccardo
