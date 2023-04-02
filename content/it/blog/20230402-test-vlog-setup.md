@@ -1,6 +1,6 @@
 ---
 date: 2023-04-02T07:00:00-00:00
-description: "Ho in mente di introdurre (più avanti) una tipologia diversa di video, oltre ai tutorial soliti. Ieri ho testato per la prima volta il "setup da vlog"."
+description: "Ho in mente di introdurre (più avanti) una tipologia diversa di video, oltre ai tutorial soliti. Ieri ho testato per la prima volta il setup da vlog."
 featured_image: "/images/IMG_3093.jpg"
 categories : [ "Divagazioni" ]
 tags: [ "VLog" ]
