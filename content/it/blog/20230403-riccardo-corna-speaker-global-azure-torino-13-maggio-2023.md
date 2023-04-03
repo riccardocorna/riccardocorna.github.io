@@ -5,7 +5,7 @@ featured_image: "/images/1680011811006.jpeg"
 categories : [ "Eventi & Community" ]
 tags: [ "Eventi", "Global Azure", "2023" ]
 title: "Sarò speaker al Global Azure 2023 di Torino"
-url: /riccardo-corna-speaker-wpc-days-christmas-in-cloud-14-dicembre-2022
+url: /riccardo-corna-speaker-global-azure-torino-13-maggio-2023
 ---
 Primavera significa Global Azure ed è con immenso piacere che vi annuncio che sarò speaker al **Global Azure 2023 di Torino**, che si terrà sabato 13 Maggio 2023!
 
