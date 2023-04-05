@@ -1,8 +1,8 @@
 ---
-date: 2023-04-12T07:00:00-00:00
+date: 2023-04-12T05:00:00-00:00
 description: "Perché Windows Hello for Business è la Multi Factor Authentication del login di Windows e come configurarla via Intune in modalità Azure AD Kerberos Cloud Trust, attraverso il Settings Catalog."
 featured_image: "/images/01-windows-hello-for-business-video-cover.png"
-categories : ["Identity & Security"]
+categories : [ "Identity & Security" ]
 tags: [ "Windows Hello for Business", "Video Microsoft Security Italian USers Group", "Video" ]
 title: "Windows Hello for Business è la MFA del login di Windows!"
 url: /windows-hello-for-business-passwordless-mfa-windows-login
