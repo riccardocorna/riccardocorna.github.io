@@ -1,5 +1,5 @@
 ---
-date: 2023-04-05T07:00:00-00:00
+date: 2023-04-05T05:00:00-00:00
 description: "La protagonista di oggi è Elisa Pirrone, CSA Security per Microsoft Italia. Insieme a lei parleremo di disabilitazione di protocolli legacy, creazione di policy di conditional access, best practices e del perché Windows Hello for Business è una MFA."
 featured_image: "/images/01-un-caffe-con-elisa-pirrone.png"
 categories : [ "Eventi & Community" ]
