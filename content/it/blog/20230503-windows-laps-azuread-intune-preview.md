@@ -7,13 +7,28 @@ tags: [ "LAPS", "Windows", "Azure AD", "Video" ]
 title: "Windows LAPS in Azure AD (preview)"
 url: /windows-laps-azuread-intune-preview
 ---
-Con la release 2304 di Intune arriva Windows LAPS con il supporto diretto ad Azure Active Directory, una funzionalità che in tantissimi stavano aspettando. 
-
-In questo video vi racconto dei requisiti di licenza e di sistema operativo. Vedremo anche come implementarlo e come funziona il recupero della password.
+Ho provato il nuovo Windows LAPS (Local Administrator Password Solution) con supporto diretto ad Azure AD.
 
 {{< youtube oGbAqOxJOhQ >}}
 
-E voi state già usando LAPS nella sua versione legacy? Parliamone insieme sui miei profili social!
+Se avete macchine Windows 11 (che lo supportano nativamente), è veramente semplice e veloce da implementare.
+
+Ecco alcune informazioni utili:
+
+📌 Nessun requisito di licenza, è disponibile da Azure AD Free in su  
+
+📌 Sistemi operativi supportati:  
+- Windows 11 22H2 - April 11 2023 Update
+- Windows 11 21H2 - April 11 2023 Update
+- Windows 10 20H2, 21H2 and 22H2 - April 11 2023 Update
+- Windows Server 2022 - April 11 2023 Update
+- Windows Server 2019 - April 11 2023 Update
+
+Nel video, oltre a configurare il profilo Intune per riabilitare l'Administrator locale built-in, ho testato anche una situazione un po' più particolare, rinominando l'Administrator. È una buona pratica di hardening che mi è capitato spesso di trovare sul campo ed è molto semplice da configurare via Intune Settings Catalog.
+
+Che dire, non vi resta che vedere il video per tutti gli altri dettagli 😉
+
+E voi state già usando LAPS nella vostra infrastruttura? Parliamone insieme sui miei profili social!
 
 Buona visione!
 
