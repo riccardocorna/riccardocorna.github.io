@@ -7,18 +7,18 @@ tags: [ "Twitter", "Altro" ]
 title: "Nuovo profilo Twitter"
 url: /nuovo-profilo-twitter
 ---
-If you like, I'm starting from scratch on Twitter with a brand new profile. There, I will mainly write in English.
+Se vi va, sto ricominciando da zero su Twitter con un profilo nuovo di pacca. Lì scriverò prevalentemente in inglese.
 
-Twitter profile picture
+[![Immagine del profilo Twitter](/images/Web-capture_17-5-2023_111436_twitter.com.jpeg)](https://twitter.com/riccardocorna)
 
-Why? Several reasons:
+Perché? Diversi motivi:
+1. Per abituarmi ad usare l'Inglese più spesso: leggo tanti contenuti in questa lingua quotidianamente ma passo periodi (troppo) lunghi senza scriverlo o parlarlo.
+2. Perché in ambito Microsoft su Twitter ci sono davvero profili e contenuti imperdibili e, soprattutto, la community degli MVP lì è attivissima.
+3. Perché, al contrario di Linkedin, su Twitter il tipo di contenuti che propongo non attecchisce per niente in lingua italiana
 
-To get used to using English more often: I read a lot of content in this language every day, but I go through (too) long periods without writing or speaking it.
-Because in the Microsoft realm on Twitter, there are really unmissable profiles and content, and above all, the MVP community there is very active.
-Because, unlike LinkedIn, the type of content I offer doesn't resonate at all in Italian.
-If you want, if you feel like it... here I am:
+Se volete, se vi va... eccomi qui:  
 ➡️ https://twitter.com/riccardocorna
 
-Of course, this will not in any way affect the activity I carry out on my blog, LinkedIn, or YouTube, which are my main channels and will continue their adventure! 😉
+Chiaramente questo non intaccherà in alcun modo l'attività che svolgo su blog, Linkedin o Youtube, che sono i miei canali principali e continueranno la loro avventura! 😉
 
 Riccardo
