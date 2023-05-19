@@ -5,7 +5,7 @@ featured_image: "/images/1684312653221.jpeg"
 categories: ["Identity & Security"]
 tags: ["Azure AD"]
 title: "Convert ObjectID to SID in Azure AD and vice versa"
-url: /useful-resource-convert-azure-ad-objectid-sid
+url: /en/useful-resource-convert-azure-ad-objectid-sid
 ---
 Friday resource! If you're tinkering with Local Groups Membership policies in Intune and (like me) have cursed a bit while converting group/role ObjectIDs to SIDs and vice versa, here's a website that does it online instantly and conveniently.
 

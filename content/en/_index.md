@@ -1,6 +1,6 @@
 ---
 title: "Secure Modern IT"
-description: "Aiuto le aziende a evolvere verso un IT moderno e sicuro"
+description: "I help companies evolve towards a modern and secure IT"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
@@ -11,7 +11,7 @@ cascade:
   <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Secondary_Black_RGB.jpg"></a><br />Riccardo Corna</p>
 {{< / rawhtml >}}
 
-Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o fai una ricerca sull'argomento che ti interessa.
+Discover how to get the most out of **Microsoft 365**, **Azure**, **Windows**, and **macOS**. Read my articles by browsing categories or search for the topic that interests you.
 
 {{< rawhtml >}}
   <p class="tc">
@@ -24,7 +24,7 @@ Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **
       <input type="hidden" name="kj" value="#fafafa"/>
       <input type="hidden" name="kt" value="h"/>
       <input type="text" name="q" placeholder="" aria-label="Search itspecialist.cloud on DuckDuckGo"/>
-      <button type="submit">Cerca</button>
+      <button type="submit">Find</button>
     </form>
   </p>
 {{< / rawhtml >}}

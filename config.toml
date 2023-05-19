@@ -14,6 +14,10 @@ enableRobotsTXT = true
     title = "IT Specialist Cloud"
     weight = 1
     contentDir = "content/it"
+  [languages.en]
+    title = "IT Specialist Cloud"
+    weight = 1
+    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"
@@ -28,47 +32,96 @@ enableRobotsTXT = true
   blog = "/:title/"
 
 [menu]
-[[menu.main]]
+[[languages.it.menu.main]]
   identifier = "about"
   name = "whoami"
   url = "/about"
   weight = 2
-[[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "about"
+  name = "whoami"
+  url = "/en/about"
+  weight = 2
+
+[[languages.it.menu.main]]
   identifier = "eventi-community"
   name = "eventi"
   url = "/categories/eventi-community"
   weight = 3
-[[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "eventi-community"
+  name = "events"
+  url = "/en/categories/eventi-community"
+  weight = 3
+
+[[languages.it.menu.main]]
   identifier = "identity-security"
-  name = "identity & security"
+  name = "security"
   url = "/categories/identity-security"
   weight = 4
-[[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "identity-security"
+  name = "security"
+  url = "/en/categories/identity-security"
+  weight = 4
+
+
+[[languages.it.menu.main]]
   identifier = "modern-endpoint"
-  name = "modern endpoint"
+  name = "modern IT"
   url = "/categories/modern-endpoint"
   weight = 5
-[[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "modern-endpoint"
+  name = "modern IT"
+  url = "/en/categories/modern-endpoint"
+  weight = 5
+
+[[languages.it.menu.main]]
   identifier = "cloud-datacenter"
-  name = "cloud datacenter"
+  name = "cloud"
   url = "/categories/cloud-datacenter"
   weight = 6
-[[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "cloud-datacenter"
+  name = "cloud"
+  url = "/en/categories/cloud-datacenter"
+  weight = 6
+
+[[languages.it.menu.main]]
   identifier = "altro"
   name = "altro"
   url = "/categories/altro"
   weight = 7
-[[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "altro"
+  name = "miscellaneous"
+  url = "/en/categories/altro"
+  weight = 7
+
+[[languages.it.menu.main]]
   identifier = "divagazioni"
   name = "divagazioni"
   url = "/categories/divagazioni"
   weight = 8
-  [[menu.main]]
+[[languages.en.menu.main]]
+  identifier = "divagazioni"
+  name = "digressions"
+  url = "/en/categories/divagazioni"
+  weight = 8
+
+[[languages.it.menu.main]]
   identifier = "archivio"
   name = "archivio"
   url = "/categories/archivio"
   weight = 9
-[[menu.main]]
+
+[[languages.it.menu.main]]
+  identifier = "privacy-policy"
+  name = "privacy policy"
+  url = "https://www.iubenda.com/privacy-policy/37879840"
+  weight = 10
+[[languages.en.menu.main]]
   identifier = "privacy-policy"
   name = "privacy policy"
   url = "https://www.iubenda.com/privacy-policy/37879840"

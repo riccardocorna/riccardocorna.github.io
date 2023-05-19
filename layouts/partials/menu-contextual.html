@@ -15,7 +15,7 @@
   https://gohugo.io/content-management/related/
 */}}
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3">Trova contenuti</p>
+    <p class="f5 b mb3">{{ i18n "findContent" . }}</p>
     <form method="get" id="ddgSearch" action="https://duckduckgo.com/">
       <input type="hidden" name="sites" value="itspecialist.cloud"/>
       <input type="hidden" name="k7" value="#ffffff"/>
@@ -25,11 +25,11 @@
       <input type="hidden" name="kj" value="#fafafa"/>
       <input type="hidden" name="kt" value="h"/>
       <input type="text" name="q" placeholder="" aria-label="Search itspecialist.cloud on DuckDuckGo"/>
-      <button type="submit">Cerca</button>
+      <button type="submit">{{ i18n "search" . }}</button>
     </form>
   </div>
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
-    <p class="f5 b mb3">Seguimi!</p>
+    <p class="f5 b mb3">{{ i18n "followMe" . }}</p>
     <p class="tc">{{ partialCached "social-follow.html" . }}</p>
   </div>
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">

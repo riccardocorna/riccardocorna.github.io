@@ -1,55 +1,55 @@
 [more]
-other = "Altro"
+other = "More"
 
 [allTitle]
 #other = "Tutti {{.Title }}"
-other = "Tutti gli articoli"
+other = "All blog posts"
 
 [recentTitle]
 #other = "Recenti {{.Title }}"
-other = "Articoli recenti"
+other = "Recent posts"
 
 [readMore]
 #other = "leggi di più"
-other = "continua a leggere"
+other = "read more"
 
 [by]
 other = "Da"
 
 [whatsInThis]
-other = "Cosa c'è in {{ .Type }}"
+other = "What's in {{ .Type }}"
 
 [related]
 #other = "Correlati"
-other = "Leggi anche..."
+other = "Read also"
 
 [yourName]
-other = "Il tuo nome"
+other = "Your name"
 
 [emailAddress]
-other = "Indirizzo email"
+other = "Email address"
 
 [message]
-other = "Messaggio"
+other = "Message"
 
 [emailRequiredNote]
-other = "Indirizzo email obbligatorio."
+other = "Email address required"
 
 [send]
-other = "Invia"
+other = "Send"
 
 [taxonomyPageList]
 #other = "Below you will find pages that utilize the taxonomy term “{{ .Title }}”"
 other = " "
 
 [pageTitle]
-other = "{{ .Name }} pagina"
+other = "{{ .Name }} page"
 
 [findContent]
-other = "Trova contenuti"
+other = "Find content"
 
 [followMe]
-other = "Seguimi!"
+other = "Follow me!"
 
 [search]
-other = "Cerca"
+other = "Search"
