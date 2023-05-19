@@ -21,9 +21,9 @@ Below, you can review the recording and download the displayed slides.
 
 📺 [Evento Microsoft Intune Italian Users Group 8 Marzo 2023](https://www.youtube.com/watch?v=Dui_zQnQwpo)
 
-📃 [Slide della sessione "Sono sutenticato! Ho il certificato"](https://speakerdeck.com/memiug/quinto-evento-08-03-2023-sono-autenticato-ho-il-certificato)
+📃 [Slides for the session "Sono autenticato! Ho il certificato"](https://speakerdeck.com/memiug/quinto-evento-08-03-2023-sono-autenticato-ho-il-certificato)
 
-📃 [Slide della sessione "Di MAM ce n'è uno solo..."](https://speakerdeck.com/memiug/quinto-evento-08-03-2023-di-mam-ce-ne-uno-solo-dot-dot-dot)
+📃 [Slides for the session "Di MAM ce n'è uno solo..."](https://speakerdeck.com/memiug/quinto-evento-08-03-2023-di-mam-ce-ne-uno-solo-dot-dot-dot)
 
 Enjoy watching!
 
