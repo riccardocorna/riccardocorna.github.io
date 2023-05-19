@@ -2,7 +2,7 @@
 date: 2023-03-09T08:00:00-00:00
 description: "Today, let's have coffee together with Francesco Molfese, MVP. We will discuss security posture on Azure and hybrid data centers, thanks to the tools provided by Microsoft Defender for Cloud."
 featured_image: "/images/01-un-caffe-con-francesco-molfese.png"
-categories : [ "Events & Community" ]
+categories : [ "Eventi & Community" ]
 tags: [ "A coffee with", "Microsoft Security Italian Users Group", "Video" ]
 title: "A coffee with... Francesco Molfese"
 url: /en/a-coffee-with-francesco-molfese
