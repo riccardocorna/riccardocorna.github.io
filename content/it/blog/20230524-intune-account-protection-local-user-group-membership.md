@@ -55,7 +55,7 @@ Non racconterò di questa configurazione ora ma, se volete che io faccia un vide
 
 Perfetto, ora vediamo quale dei due SID è il ruolo che abbiamo scelto per rimanere negli admin locali, lo convertiamo in un ObjectId e interroghiamo Microsoft Graph per verificare di aver preso il SID giusto! 
 
-{{< youtubestartend wFiocHs-MQ4 280 439>}}
+{{< youtubestartend wFiocHs-MQ4 385 439>}}
 
 Mi è andata bene, ho scelto il ruolo giusto, quello col nome lunghissimo! 😉 Ora, non ci resta che implementare la policy di Intune. Prima, però, un’ultima precisazione.
 
