@@ -7,7 +7,15 @@ tags: ["Intune", "Azure AD Join", "Local Administrators"]
 title: "Intune Account Protection: Local user group membership"
 url: /en/intune-account-protection-local-user-group-membership
 ---
-IT specialists, hello everyone! After playing with [the new Windows LAPS](https://youtu.be/oGbAqOxJOhQ) in my previous video, I was reviewing the list of local administrators on my lab machine, and since the machine is registered in Azure AD Join, the Azure AD user who joined it has become an administrator.
+IT specialists, hello everyone! In this video, we will see the tools that Azure AD and Intune provide us with to manage local group membership.
+
+## Video
+You can find the entire video below, or you can continue reading the article.
+
+{{< youtube wFiocHs-MQ4 >}}
+
+## Article
+After playing with [the new Windows LAPS](https://youtu.be/oGbAqOxJOhQ) in my previous video, I was reviewing the list of local administrators on my lab machine, and since the machine is registered in Azure AD Join, the Azure AD user who joined it has become an administrator.
 
 This is a normal and expected behavior, but... we don't like it.
 
