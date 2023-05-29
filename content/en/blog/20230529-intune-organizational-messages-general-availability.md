@@ -16,8 +16,7 @@ Here are the key licensing and requirements details.
 📌 **Licenses**
 - Microsoft 365 E3
 - Microsoft 365 E5
-- Windows 10/11 Enterprise E3 with
-- Microsoft Intune Plan 1
+- Windows 10/11 Enterprise E3 with Microsoft Intune Plan 1
 - Windows 10/11 Enterprise E5 with Microsoft Intune Plan 1
 
 📌 **Operating Systems**
