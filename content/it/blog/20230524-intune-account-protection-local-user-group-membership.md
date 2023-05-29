@@ -7,7 +7,7 @@ tags: [ "Intune", "Azure AD Join", "Local Administrators" ]
 title: "Intune Account Protection: Local user group membership"
 url: /intune-account-protection-local-user-group-membership
 ---
-Specialisti IT, ciao a tutti! In questo video vediamo cquali sono gli strumenti che Azure AD e Intune ci mettono a disposizione per gestire la membership locale dei gruppi.
+Specialisti IT, ciao a tutti! In questo video vediamo quali sono gli strumenti che Azure AD e Intune ci mettono a disposizione per gestire la membership locale dei gruppi.
 
 ## Video
 Trovate l'intero video qui sotto, altrimenti potete continuare a leggere l'articolo.
