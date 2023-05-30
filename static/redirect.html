@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    var redirectUrl = decodeURIComponent(window.location.search.match(/(\?|&)redirect_url=([^&]*)/)[2]);
+    window.location.href = redirectUrl;
+  </script>
+</head>
+<body>
+  <noscript>
+    <meta http-equiv="refresh" content="0;URL={{ .Params.redirect_url }}">
+  </noscript>
+</body>
+</html>
