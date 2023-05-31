@@ -2,7 +2,7 @@
 date: 2023-05-31T05:00:00-00:00
 description: "Let's clarify the various pieces of technology we can find within the new Intune suite with Maura Perra, Technical Specialist in Cloud Endpoint for Microsoft!"
 featured_image: "/images/01-un-caffe-con-maura-perra.png"
-categories: [ "Events & Community" ]
+categories: [ "Eventi & Community" ]
 tags: ["A Coffee with", "Microsoft Security Italian Users Group", "Video"]
 title: "A Coffee with... Maura Perra"
 url: /en/a-coffee-with-maura-perra
