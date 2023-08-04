@@ -150,15 +150,20 @@ url = "https://youtube.com/@ITSpecialistCloud"
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/riccardocorna"
-color = "#595AFF"
+url = "https://x.com/riccardocorna"
+color = "#139AE9"
 
-[[params.ananke_socials]]
-name = "sessionize"
-url = "https://sessionize.com/riccardocorna/"
-color = "#1AB394"
+#[[params.ananke_socials]]
+#name = "bluesky"
+#url = "https://bsky.app/profile/itspecialist.cloud"
+#color = "#595AFF"
 
-[[params.ananke_socials]]
-name = "ko-fi"
-url = "https://ko-fi.com/riccardocorna"
-color = "#00B0F1"
+#[[params.ananke_socials]]
+#name = "sessionize"
+#url = "https://sessionize.com/riccardocorna/"
+#color = "#1AB394"
+
+#[[params.ananke_socials]]
+#name = "ko-fi"
+#url = "https://ko-fi.com/riccardocorna"
+#color = "#00B0F1"
