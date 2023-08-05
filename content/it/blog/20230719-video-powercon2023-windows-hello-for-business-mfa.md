@@ -2,6 +2,8 @@
 date: 2023-07-19T05:00:00-00:00
 description: "Tutti chiedono: “È possibile avere la MFA al login di Windows?”. La risposta è “sì” ed è Windows Hello for Business! Nella sessione vedrete cos’è, come funziona e perché Windows Hello for Business è una soluzione passwordless e multi fattore."
 featured_image: "/images/POWERCON2023-Riccardo-Corna-WHfB-e-la-MFA-di-Windows.png"
+images:
+  - "/images/POWERCON2023-Riccardo-Corna-WHfB-e-la-MFA-di-Windows.png"
 categories : [ "Eventi & Community" ]
 tags: [ "Evento", "Video", "Windows Hello for Business","Passwordless" ]
 title: "#POWERCON2023: disponibile il video della sessione su Windows Hello for Business"
