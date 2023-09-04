@@ -15,7 +15,7 @@ Lavoro in [Microsys](https://msys.it), società partner di Microsoft, e ricopro 
 
 Grazie alle attività di divulgazione svolte attraverso questo blog, sono stato premiato come **Microsoft MVP (Most Valuable Professional)** nella categoria **Security**: ecco il mio profilo.
 {{< rawhtml >}}
-  <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
+  <p class="b tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
 {{< / rawhtml >}}
 
 Al di fuori del lavoro non disdegno qualche incursione nel mondo del **web** e della **fotografia** e sono letteralmente stregato da tutto ciò che riguarda **comunicazione** e **crescita personale**.

@@ -17,7 +17,7 @@ I work at [Microsys](https://msys.it), a Microsoft partner company, and I hold t
 Thanks to the outreach activities carried out through this blog, I have been awarded the title of **Microsoft MVP (Most Valuable Professional)** in the **Security** category. Here's my profile.
 
 {{< rawhtml >}}
-  <p class="b tc"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5005093" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
+  <p class="b tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
 {{< / rawhtml >}}
 
 Outside of work, I don't mind delving into the world of **web** and **photography**, and I am truly fascinated by everything related to **communication** and **personal growth**.
