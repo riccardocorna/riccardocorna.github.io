@@ -9,7 +9,7 @@ tags: [ "Entra ID", "Conditional Access" ]
 title: "What's New in Conditional Access: Templates and a New Overview Available"
 url: "/en/entra-id-conditional-access-templates-overview-general-availability"
 ---
-Fresh news in the Microsoft Enter ID realm: templates and a brand new overview are now publicly available. Let's start with the templates.
+Fresh news in the Microsoft Entra ID realm: templates and a brand new overview are now publicly available. Let's start with the templates.
 
 ## Template
 Conditional Access policies are a powerful tool that offers a high degree of customization and granularity. That's why it can sometimes be less intuitive to know where to begin when it comes to implementing a particular policy for a specific situation.
