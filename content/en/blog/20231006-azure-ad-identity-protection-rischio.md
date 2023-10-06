@@ -2,6 +2,8 @@
 date: 2023-10-06T08:00:00-00:00
 description: "How Microsoft Entra ID Protection works and what the concept of risk means when applied to a user and a sign-in."
 featured_image: "/images/03-Zero-Trust-Security-Conditional-Access.png"
+images:
+  - "/images/03-Zero-Trust-Security-Conditional-Access.png"
 categories: [ "Identity & Security"]
 tags: [ "Entra ID", "Identity Protection"]
 title: "Microsoft Entra ID Protection: what is Risk in Entra ID?"
