@@ -6,6 +6,8 @@ categories: [ "Identity & Security"]
 tags: [ "Entra ID", "Identity Protection"]
 title: "Microsoft Entra ID Protection: cos’è il rischio in Entra ID?"
 url: "/entra-id-protection-rischio"
+aliases:
+  - /azure-ad-identity-protection-rischio/
 ---
 In un approccio [Zero Trust Security](/zero-trust-security/), dove l’identità è un elemento fondamentale, la sicurezza delle autenticazioni è in qualche modo misurabile in base ai cosiddetti “segnali”. L’analisi di questi segnali restituisce quindi un livello di “rischio” di un certo utente quando effettua l’autenticazione ai servizi Microsoft 365. Oggi ti racconto cos’è Entra ID Protection e cosa significa il concetto di “rischio”.
 
