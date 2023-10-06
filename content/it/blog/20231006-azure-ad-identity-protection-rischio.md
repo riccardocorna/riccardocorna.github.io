@@ -1,5 +1,5 @@
 ---
-date: 2021-05-05T08:00:00-00:00
+date: 2023-10-06T08:00:00-00:00
 description: "Come funziona Entra ID Protection e cosa significa il concetto di rischio applicato ad un utente e ad un sign-in."
 featured_image: "/images/03-Zero-Trust-Security-Conditional-Access.png"
 categories: [ "Identity & Security"]
