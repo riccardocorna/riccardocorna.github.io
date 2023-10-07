@@ -140,20 +140,38 @@ enableRobotsTXT = true
   recent_posts_number = 3
   show_reading_time = true
 
-[[params.ananke_socials]]
+[[languages.it.params.ananke_socials]]
 name = "linkedin"
-url = "https://linkedin.com/company/itspecialistcloud/"
+url = "https://linkedin.com/in/riccardocorna/it/"
 
-[[params.ananke_socials]]
+[[languages.it.params.ananke_socials]]
 name = "youtube"
 url = "https://youtube.com/@ITSpecialistCloud"
 
-[[params.ananke_socials]]
+[[languages.it.params.ananke_socials]]
 name = "twitter"
 url = "https://x.com/itspecialcloud"
 color = "#139AE9"
 
-[[params.ananke_socials]]
+[[languages.it.params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/itspecialistcloud"
+color = "#DD2A7B"
+
+[[languages.en.params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/company/itspecialistcloud/"
+
+[[languages.en.params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/@ITSpecialistCloud"
+
+[[languages.en.params.ananke_socials]]
+name = "twitter"
+url = "https://x.com/itspecialcloud"
+color = "#139AE9"
+
+[[languages.en.params.ananke_socials]]
 name = "instagram"
 url = "https://instagram.com/itspecialistcloud"
 color = "#DD2A7B"
