@@ -18,11 +18,11 @@ Chiacchierata divertente, montaggio velocissimo: l'episodio di Azure Italia Podc
 
 E su tutte le altre principali piattaforme di podcast: Apple, Amazon, eccetera 😉
 
-Al di là di questo episodio, il consiglio è di iscrivervi al podcast per non perdere nemmeno un episodio: è raro trovare materiale del genere in lingua italiana e [Carlo Sacchi](https://www.linkedin.com/in/carlo-sacchi/) sta facendo un lavoro egregio!
+Al di là di questo episodio, il consiglio è di iscrivervi al podcast per non perdervene nemmeno uno: è raro trovare materiale del genere in lingua italiana e [Carlo Sacchi](https://www.linkedin.com/in/carlo-sacchi/) sta facendo un lavoro egregio!
 
 Grazie ancora a Carlo per l'invito e la chiacchierata: ero emozionato e mi sono divertito un sacco, forse anche troppo visto che abbiamo parlato più di un'ora senza accorgercene. 🤣
 
 Buon ascolto!
 
-Il vostro IT Specialist,
+Il vostro IT Specialist,  
 Riccardo
