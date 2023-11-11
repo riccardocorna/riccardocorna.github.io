@@ -158,6 +158,10 @@ name = "instagram"
 url = "https://instagram.com/itspecialistcloud"
 color = "#DD2A7B"
 
+[[languages.it.params.ananke_socials]]
+name = "mastodon"
+url = "https://infosec.exchange/@itspecialistcloud/"
+
 [[languages.en.params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/company/itspecialistcloud/"
@@ -175,6 +179,10 @@ color = "#139AE9"
 name = "instagram"
 url = "https://instagram.com/itspecialistcloud"
 color = "#DD2A7B"
+
+[[languages.en.params.ananke_socials]]
+name = "mastodon"
+url = "https://infosec.exchange/@itspecialistcloud/"
 
 #[[params.ananke_socials]]
 #name = "bluesky"
