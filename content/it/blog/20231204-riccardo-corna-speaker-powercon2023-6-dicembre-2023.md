@@ -5,7 +5,7 @@ featured_image: "/images/01-Powercon-Online-2023-Dic.jpg"
 images:
   - "/images/01-Powercon-Online-2023-Dic.jpg"
 categories: [ "Eventi & Community" ]
-tags: [ "#POWERCON2023", "ICT Power", "Eventi" ]
+tags: [ "#POWERCON2023", "ICT Power", "Evento" ]
 title: "Sarò speaker a #POWERCON2023 il 6 dicembre 2023"
 url: "/riccardo-corna-speaker-powercon2023-6-dicembre-2023"
 ---
