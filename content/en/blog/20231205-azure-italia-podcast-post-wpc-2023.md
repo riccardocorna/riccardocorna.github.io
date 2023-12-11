@@ -6,7 +6,7 @@ images:
   - "/images/01-azure-italia-podcast-logo.png"
 categories: [ "Eventi & Community" ]
 tags: [ "Azure Italia Podcast", "Podcast", "WPC 2023" ]
-title: "Azure Italia Podcast: WPC 2023 narrated by the protagonists."
+title: "Azure Italia Podcast: WPC 2023 narrated by the speakers."
 url: "/en/azure-podcat-italia-post-wpc-2023"
 ---
 **⚠️ 🇮🇹 To my Italian speaking followers!**

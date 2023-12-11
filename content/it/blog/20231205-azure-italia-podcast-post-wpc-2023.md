@@ -6,7 +6,7 @@ images:
   - "/images/01-azure-italia-podcast-logo.png"
 categories: [ "Eventi & Community" ]
 tags: [ "Azure Italia Podcast", "Podcast", "WPC 2023" ]
-title: "Azure Italia Podcast: il WPC 2023 raccontato dai protagonisti"
+title: "Azure Italia Podcast: il WPC 2023 raccontato dagli speaker"
 url: "/azure-podcat-italia-post-wpc-2023"
 ---
 WPC 2023 è anche questo: incontrarsi di persona e organizzare in men che non si dica nuove attività di community! Così è accaduto con Carlo Sacchi, padrone di casa dell'Azure Italia Podcast e che, finalmente, sono riuscito a conoscere di persona.
