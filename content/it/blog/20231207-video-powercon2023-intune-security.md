@@ -15,7 +15,7 @@ Qualche giorno fa si è tenuta l'edizione invernale di #POWERCON2023, conferenza
 
 Volete saperne di più? Non vi resta che rivedere il video :)
 
-[#POWERCON2023 – evento online del 6 dicembre – Riccardo Corna – il braccio operativo delle impostazioni di sicurezza sugli endpoint di Microsoft Intune](https://www.ictpower.it/events/powercon2023-evento-online-del-6-dicembre-riccardo-corna-il-braccio-operativo-delle-impostazioni-di-sicurezza-sugli-endpoint-di-microsoft-intune.htm)
+[#POWERCON2023 – evento online del 6 dicembre – Riccardo Corna – Microsoft Intune: il braccio operativo delle impostazioni di sicurezza sugli endpoint](https://www.ictpower.it/events/powercon2023-evento-online-del-6-dicembre-riccardo-corna-il-braccio-operativo-delle-impostazioni-di-sicurezza-sugli-endpoint-di-microsoft-intune.htm)
 
 Buona visione e alla prossima #POWERCON2023!
 Riccardo

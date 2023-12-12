@@ -17,7 +17,7 @@ It is certainly correct to say that Microsoft Intune is an MDM, and its main pur
 
 Want to learn more? All you have to do is watch the video :)
 
-[#POWERCON2023 – evento online del 6 dicembre – Riccardo Corna – il braccio operativo delle impostazioni di sicurezza sugli endpoint di Microsoft Intune](https://www.ictpower.it/events/powercon2023-evento-online-del-6-dicembre-riccardo-corna-il-braccio-operativo-delle-impostazioni-di-sicurezza-sugli-endpoint-di-microsoft-intune.htm)
+[#POWERCON2023 – evento online del 6 dicembre – Riccardo Corna – Microsoft Intune: il braccio operativo delle impostazioni di sicurezza sugli endpoint](https://www.ictpower.it/events/powercon2023-evento-online-del-6-dicembre-riccardo-corna-il-braccio-operativo-delle-impostazioni-di-sicurezza-sugli-endpoint-di-microsoft-intune.htm)
 
 Enjoy the viewing, and see you at the next #POWERCON2023!
 
