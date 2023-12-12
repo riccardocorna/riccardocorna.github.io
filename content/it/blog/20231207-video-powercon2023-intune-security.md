@@ -1,5 +1,5 @@
 ---
-date: 2023-12-08T05:00:00-00:00
+date: 2023-12-12T05:00:00-00:00
 description: "Oltre al MDM c'è di più: Intune, oltre ad avere in sè tutto ciò che serve per la gestione dei dispositivi, è anche il braccio operativo degli strumenti di sicurezza Microsoft. Vediamo come ci può aiutare a mettere in sicurezza dispositivi e identità."
 featured_image: "/images/01-powercon2023-intune-security.png"
 images:
