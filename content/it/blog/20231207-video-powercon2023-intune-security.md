@@ -6,7 +6,7 @@ images:
   - "/images/01-powercon2023-intune-security.png"
 categories : [ "Eventi & Community" ]
 tags: [ "Evento", "Video", "Intune","Security" ]
-title: "#POWERCON2023: disponibile il video della mia sessione su Intune usto come strumento di sicurezza"
+title: "#POWERCON2023: disponibile il video della mia sessione su Intune usato come strumento di sicurezza"
 url: /video-powercon2023-intune-security
 ---
 Qualche giorno fa si è tenuta l'edizione invernale di #POWERCON2023, conferenza online organizzata dalla community [ICTPower.it](https://ictpower.it).
