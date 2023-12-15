@@ -13,6 +13,12 @@ It's true, I neglected "Resource Friday" for a while: why? The spirit of the col
 
 So, after reflecting for a long time more or less as in the slide below, how to overcome this without distorting or even eliminating this classic Friday post containing useful information?
 
+{{< rawhtml >}}
+
+  <iframe src="https://giphy.com/embed/gEvab1ilmJjA82FaSV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rodneydangerfield-thinking-math-rodney-gEvab1ilmJjA82FaSV">via GIPHY</a></p>
+
+{{< /rawhtml >}}
+
 Simple: I present to you **#LearningFriday**! From now on, not just resources or eBooks to "download" but, simply, a weekly collection of the best and most interesting content on Microsoft Security, Microsoft Entra, Microsoft 365, and everything you're used to following with me. Reading the content of other MVPs and interesting personalities from Microsoft is the best way to get inspired and learn new things. 😉
 
 For now, **#LearningFriday** will continue to have the classic form of a blog post and LinkedIn, but it is not excluded that it may change: the holiday season will bring advice.

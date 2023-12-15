@@ -13,6 +13,12 @@ url: /ebook-microsoft-sentinel-soc-101
 
 Quindi, dopo aver riflettuto a lungo più o meno come nella diapositiva sottostante, come ovviare a questo senza snaturare o, addirittura, eliminare questo classico post del venerdì contenente informazioni utili?
 
+{{< rawhtml >}}
+
+  <iframe src="https://giphy.com/embed/gEvab1ilmJjA82FaSV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rodneydangerfield-thinking-math-rodney-gEvab1ilmJjA82FaSV">via GIPHY</a></p>
+
+{{< /rawhtml >}}
+
 Semplice: vi presento **#LearningFriday**! Da oggi in poi, non solo risorse o eBook da "scaricare" ma, semplicemente, una raccolta settimanale dei migliori e più interessanti contenuti a tema Microsoft Security, Microsoft Entra, Microsoft 365, e tutto quello a cui siete abituati seguendomi. Leggere i contenuti di altri MVP e personalità interessanti di Microsoft è il modo migliore per farsi ispirare e per imparare cose nuove. 😉
 
 Per il momento, **#LearningFriday** continuerà ad avere la forma classica di post sul blog e Linkedin ma non è escluso che possa cambiare: le feste natalizie porteranno consiglio.
