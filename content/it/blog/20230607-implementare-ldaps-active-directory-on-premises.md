@@ -2,6 +2,8 @@
 date: 2023-06-07T05:00:00-00:00
 description: "Ogni foresta e dominio di Active Directory dovrebbero avere LDAPS implementato ma in pochissimi casi lo è davvero. L'argomento spaventa perché ci sono di mezzo i certificati ma, una volta capiti alcuni concetti di base, è più facile di quanto sembri da domare. Vediamo come implementarlo!"
 featured_image: "/images/01-LDAPS.png"
+images:
+  - "/images/01-LDAPS.png"
 categories : [ "Identity & Security" ]
 tags: [ "Active Directory", "LDAPS", "Video" ]
 title: "Implementare LDAPS in Active Directory on-premises"
