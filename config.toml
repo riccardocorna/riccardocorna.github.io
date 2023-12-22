@@ -149,18 +149,23 @@ name = "youtube"
 url = "https://youtube.com/@ITSpecialistCloud"
 
 [[languages.it.params.ananke_socials]]
-name = "twitter"
-url = "https://x.com/itspecialcloud"
-color = "#139AE9"
+name = "threads"
+url = "https://threads.net/@itspecialistcloud"
+color = "#EE99FF"
+
+#[[languages.it.params.ananke_socials]]
+#name = "twitter"
+#url = "https://x.com/itspecialcloud"
+#color = "#139AE9"
 
 [[languages.it.params.ananke_socials]]
 name = "instagram"
 url = "https://instagram.com/itspecialistcloud"
 color = "#DD2A7B"
 
-[[languages.it.params.ananke_socials]]
-name = "mastodon"
-url = "https://infosec.exchange/@itspecialistcloud/"
+#[[languages.it.params.ananke_socials]]
+#name = "mastodon"
+#url = "https://infosec.exchange/@itspecialistcloud/"
 
 [[languages.en.params.ananke_socials]]
 name = "linkedin"
@@ -171,18 +176,23 @@ name = "youtube"
 url = "https://youtube.com/@ITSpecialistCloud"
 
 [[languages.en.params.ananke_socials]]
-name = "twitter"
-url = "https://x.com/itspecialcloud"
-color = "#139AE9"
+name = "threads"
+url = "https://threads.net/@itspecialistcloud"
+color = "#EE99FF"
+
+#[[languages.en.params.ananke_socials]]
+#name = "twitter"
+#url = "https://x.com/itspecialcloud"
+#color = "#139AE9"
 
 [[languages.en.params.ananke_socials]]
 name = "instagram"
 url = "https://instagram.com/itspecialistcloud"
 color = "#DD2A7B"
 
-[[languages.en.params.ananke_socials]]
-name = "mastodon"
-url = "https://infosec.exchange/@itspecialistcloud/"
+#[[languages.en.params.ananke_socials]]
+#name = "mastodon"
+#url = "https://infosec.exchange/@itspecialistcloud/"
 
 #[[params.ananke_socials]]
 #name = "bluesky"
