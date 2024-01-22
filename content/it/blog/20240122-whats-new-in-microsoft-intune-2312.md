@@ -6,8 +6,8 @@ images:
   - "/images/01-ee3df807-4393-4869-863c-c82a372af652.jpg"
 categories : [ "Identity & Security" ]
 tags: [ "News", "Microsoft Intune", "Novità"]
-title: "Novità di Intune (release 2312)"
-url: /whats-new-in-microsoft-intune-2312
+title: "Sicurezza: le novità di Intune (release 2312)"
+url: /security-whats-new-in-microsoft-intune-2312
 ---
 In attesa di "buone nuove" in questo inizio di 2024, un ripasso delle ultime novità di Intune (release 2312), in particolare quelle che ci stuzzicano dal punto di vista della sicurezza:
 
