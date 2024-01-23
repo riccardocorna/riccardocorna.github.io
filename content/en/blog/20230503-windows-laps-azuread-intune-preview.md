@@ -2,6 +2,8 @@
 date: 2023-05-03T05:00:00-00:00
 description: "With the release 2304 of Intune, Windows LAPS arrives with direct support for Azure Active Directory, a highly anticipated feature. Let's see how to implement it and how it works."
 featured_image: "/images/01-windows-laps-azuread-preview.png"
+images:
+  - "/images/01-windows-laps-azuread-preview.png"
 categories : [ "Modern Endpoint" ]
 tags: [ "LAPS", "Windows", "Azure AD", "Video" ]
 title: "Windows LAPS in Azure AD (preview)"
