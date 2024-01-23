@@ -18,12 +18,12 @@ Here are some useful information:
 📌 No licensing requirement, available from Azure AD Free and above
 
 📌 Supported operating systems:
+- Windows 11 22H2 - April 11, 2023 Update
+- Windows 11 21H2 - April 11, 2023 Update
+- Windows 10 20H2, 21H2, and 22H2 - April 11, 2023 Update
+- Windows Server 2022 - April 11, 2023 Update
+- Windows Server 2019 - April 11, 2023 Update
 
-Windows 11 22H2 - April 11, 2023 Update
-Windows 11 21H2 - April 11, 2023 Update
-Windows 10 20H2, 21H2, and 22H2 - April 11, 2023 Update
-Windows Server 2022 - April 11, 2023 Update
-Windows Server 2019 - April 11, 2023 Update
 In the video, besides configuring the Intune profile to re-enable the built-in local Administrator, I also tested a slightly more specific scenario by renaming the Administrator. It is a good hardening practice that I have often encountered in the field, and it is very easy to configure via Intune Settings Catalog.
 
 What can I say, you just have to watch the video for all the other details 😉
