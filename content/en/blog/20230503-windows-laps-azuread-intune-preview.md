@@ -1,15 +1,15 @@
 ---
 date: 2023-05-03T05:00:00-00:00
-description: "With the release 2304 of Intune, Windows LAPS arrives with direct support for Azure Active Directory, a highly anticipated feature. Let's see how to implement it and how it works."
+description: "With the release 2304 of Intune, Windows LAPS arrives with direct support for Entra ID, a highly anticipated feature. Let's see how to implement it and how it works."
 featured_image: "/images/01-windows-laps-azuread-preview.png"
 images:
   - "/images/01-windows-laps-azuread-preview.png"
 categories : [ "Modern Endpoint" ]
-tags: [ "LAPS", "Windows", "Azure AD", "Video" ]
-title: "Windows LAPS in Azure AD (preview)"
+tags: [ "LAPS", "Windows", "Entra", "Video" ]
+title: "Windows LAPS in Entra ID (preview)"
 url: /en/windows-laps-azuread-intune-preview
 ---
-I have tried the new Windows LAPS (Local Administrator Password Solution) with direct support for Azure AD.
+I have tried the new Windows LAPS (Local Administrator Password Solution) with direct support for Entra ID.
 
 {{< youtube oGbAqOxJOhQ >}}
 
@@ -17,7 +17,7 @@ If you have Windows 11 machines (which natively support it), it is really simple
 
 Here are some useful information:
 
-📌 No licensing requirement, available from Azure AD Free and above
+📌 No licensing requirement, available from Entra ID Free and above
 
 📌 Supported operating systems:
 - Windows 11 22H2 - April 11, 2023 Update
