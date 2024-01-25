@@ -2,6 +2,8 @@
 date: 2023-06-28T05:00:00-00:00
 description: "The Lab Series - Today we will see how to install Azure AD Application Proxy"
 featured_image: "/images/01-the-lab-series-0.jpg"
+images:
+  - "/images/01-the-lab-series-0.jpg"
 categories: ["Identity & Security"]
 tags: ["The Lab Series", "Azure AD Application Proxy", "Video"]
 title: "The Lab Series: Installing Azure AD Application Proxy"
