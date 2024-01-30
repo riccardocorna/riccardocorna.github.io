@@ -57,9 +57,7 @@ Perfect, let's take the second step, the most interesting one in my opinion: the
 
 So, no Windows 10/11 clients will be joined to this on-prem domain. End-user devices will be joined directly to the cloud, on Microsoft Entra.
 
-In other words, end-user devices will be Entra Joined. No AD for them, and to access on-premises resources, I will leverage Entra Kerberos.
-
-The latter, let me say, is the key concept around which the entire lab will revolve because, personally, I believe it is THE main tool to drastically reduce, if not completely eliminate, dependence on an on-premises Active Directory, at least for Windows 10/11 clients.
+In other words, end-user devices will be Entra Joined.
 
 Think about it: all users' PCs could potentially be managed wherever they are, and when in the corporate network, they could access on-premises resources or applications seamlessly and as if they were on-premises themselves.
 
@@ -69,7 +67,7 @@ So, after all this philosophical introduction, how do we proceed, and what are t
 
 We will see together how to build this type of hybrid environment from the perspective of identity and security.
 
-We will see how to install a domain controller and some basic security elements on AD, we will see how to install and configure an Entra Connect, we will see how to configure Entra Kerberos.
+We will see how to install a domain controller and some basic security elements on AD, we will see how to install and configure an Entra Connect.
 
 We will secure identities and resources with MFA and Conditional Access.
 

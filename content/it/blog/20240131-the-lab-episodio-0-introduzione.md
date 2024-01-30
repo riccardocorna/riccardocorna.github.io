@@ -56,9 +56,7 @@ Perfetto, facciamo il secondo passo, quello più interessante secondo me: l’Ac
 
 Quindi, nessun client Windows 10/11 verrà joinato a questo dominio on-prem. I dispositivi degli utenti finali verranno joinati direttamente in cloud, su Microsoft Entra.
 
-Per dirla in altre parole, i dispositivi degli utenti saranno Entra Joined. Niente AD per loro e, per poter usufruire di risorse on-premises, sfrutterò Entra Kerberos.
-
-Quest’ultimo, lasciatemi dire, è il concetto chiave intorno a cui ruoterà tutto il laboratorio perché, personalmente, ritengo che sia LO strumento principale per ridurre drasticamente, se non totalmente, la dipendenza rispetto ad una Active Directory on-premises, almeno per i client Windows 10/11.
+Per dirla in altre parole, i dispositivi degli utenti saranno Entra Joined.
 
 Pensate: tutti i PC degli utenti potrebbero, potenzialmente, essere gestiti ovunque si trovino e, quando in rete aziendale, potrebbero accedere alle risorse o alle applicazioni on-premises a dominio, in maniera trasparente e come se anche loro lo fossero.
 
@@ -68,7 +66,7 @@ Perfetto, quindi, dopo tutta questa introduzione filosofica, come andiamo avanti
 
 Vedremo insieme come costruire questo tipo di ambiente ibrido, dal punto di vista dell’identità e della sicurezza. 
 
-Vedremo come installare un domain controller e alcuni elementi di sicureza basilari su AD, vedremo come installare e configurare un Entra Connect, vedremo come configurare Entra Kerberos.
+Vedremo come installare un domain controller e alcuni elementi di sicureza basilari su AD, vedremo come installare e configurare un Entra Connect.
 
 Metteremo in sicurezza le identità e le risorse con MFA e Conditional Access.
 
