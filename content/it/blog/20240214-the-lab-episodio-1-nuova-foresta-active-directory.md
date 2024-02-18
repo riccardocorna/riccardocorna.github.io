@@ -23,7 +23,8 @@ Prima osservazione: come detto nello scorso video, quello che vi mostrerò nella
 
 Tutto ciò che riguarda un corretto dimensionamento di Active Directory, tutto quello che è correlato a tematiche più “datacenter” e capacity, non verrà trattato in questa serie di video. Ci sono canali e risorse molto più a tema rispetto a quanto possa pubblicare io.
 
-Per non lasciare comunque nulla di intentato, cercherò di lasciarvi tutti i link di approfondimento possibili e utili nelle descrizioni dei vari video.
+Per non lasciare comunque nulla di intentato, ecco alcuni link utili:
+- [Capacity planning for Active Directory Domain Services](https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/role/active-directory-server/capacity-planning-for-active-directory-domain-services)
 
 Seconda osservazione: se ancora non fosse chiaro, questo è un laboratorio! Quindi, cosa significa? Significa che, per quanto io mi possa sforzare di seguire ogni best practice, potremmo non fare tutto “a puntino”, in maniera “super ortodossa”, questo per diverse ragioni.
 
@@ -49,7 +50,10 @@ Perfetto, tutto bene, ora facciamo la cosa più croccante: creiamo una nuova for
 
 ### Scelta del FQDN: routable o non routable?
 Come vedrete, ho scelto un FQDN non routable e diverso dal dominio effettivo che useremo pubblicamente: questo, a mio modo di vedere, ci evita alcune rotture di scatole nella gestione del DNS e degli UPN. 
-Se volete approfondire questo aspetto vi ho lasciato un link qui sotto in descrizione per chiarire ogni dubbio a riguardo!
+Se volete approfondire questo aspetto vi ho lasciato un link qui sotto per chiarire ogni dubbio a riguardo!
+
+- [Prepare a nonroutable domain for directory synchronization](https://learn.microsoft.com/en-us/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization?view=o365-worldwide)
+- [Prepare for directory synchronization to Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/prepare-for-directory-synchronization?view=o365-worldwide)
 
 {{< youtubestartend NIYKflNX2BY 313 335 >}}
 
@@ -98,6 +102,8 @@ Ultima cosa, lato Azure: imposto come DNS dell’intera Virtual Network l’indi
 Così facendo, ogni altro server che creerò in questa virtual network, userà fin da subito il nostro domain controller come server DNS.
 
 Chiaramente, questa è una configurazione che fa comodo a me in quanto laboratorio: in produzione potreste avere una topologia di rete totalmente diversa, quindi, fate le opportune verifiche prima di impostare una cosa del genere.
+
+- [Deploy AD DS in an Azure virtual network](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/identity/adds-extend-domain)
 
 {{< youtubestartend NIYKflNX2BY 606 612 >}}
 

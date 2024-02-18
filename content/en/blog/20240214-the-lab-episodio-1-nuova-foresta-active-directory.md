@@ -23,7 +23,8 @@ First observation: as mentioned in the previous video, what I will show you in b
 
 Anything related to proper sizing of Active Directory, data center-related issues, and capacity will not be covered in this series of videos. There are channels and resources more focused on these topics than I can provide.
 
-To cover all bases, I will try to leave you with all the possible and useful in-depth links in the descriptions of each video.
+To cover all bases, I will try to leave you with all the possible and useful stuff_
+- [Capacity planning for Active Directory Domain Services](https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/role/active-directory-server/capacity-planning-for-active-directory-domain-services)
 
 Second observation: if it's not clear yet, this is a lab! So, what does that mean? It means that, no matter how hard I try to follow every best practice, we might not do everything "perfectly," in a "super orthodox" manner, for various reasons.
 
@@ -49,6 +50,9 @@ Perfect, all good, now let's do the exciting part: let's create a new Active Dir
 
 ### Choosing the FQDN: routable or non-routable?
 As you'll see, I chose a non-routable FQDN different from the actual domain we will use publicly. In my view, this avoids some hassles in DNS and UPN management. If you want to delve into this aspect, I've left a link below in the description to clarify any doubts!
+
+- [Prepare a nonroutable domain for directory synchronization](https://learn.microsoft.com/en-us/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization?view=o365-worldwide)
+- [Prepare for directory synchronization to Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/prepare-for-directory-synchronization?view=o365-worldwide)
 
 {{< youtubestartend NIYKflNX2BY 313 335 >}}
 
@@ -97,6 +101,8 @@ Last thing, on the Azure side: I set the private address of my domain controller
 By doing this, every other server I create in this virtual network will use our domain controller as the DNS server from the start.
 
 Of course, this is a configuration that suits me as a lab: in production, you might have a completely different network topology, so make the necessary checks before setting up something like this.
+
+- [Deploy AD DS in an Azure virtual network](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/identity/adds-extend-domain)
 
 {{< youtubestartend NIYKflNX2BY 606 612 >}}
 
