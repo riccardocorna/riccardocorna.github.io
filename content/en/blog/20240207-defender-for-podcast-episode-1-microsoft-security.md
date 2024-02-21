@@ -1,5 +1,5 @@
 ---
-date: 2024-02-07T07:00:00-00:00
+date: 2024-02-07T05:00:00-00:00
 description: "Defender for Podcast - In this first episode of Defender for Podcast, we try to focus on what the term Microsoft Security means: what it encompasses, which areas it involves?"
 featured_image: "/images/01-defender-for-podcast-01-microsoft-security.jpg"
 images:
