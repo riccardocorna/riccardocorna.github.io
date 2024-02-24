@@ -167,6 +167,10 @@ color = "#DD2A7B"
 #name = "mastodon"
 #url = "https://infosec.exchange/@itspecialistcloud/"
 
+[[languages.it.params.ananke_socials]]
+name = "ko-fi"
+url = "https://ko-fi.com/itspecialistcloud"
+
 [[languages.en.params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/company/itspecialistcloud/"
@@ -193,6 +197,10 @@ color = "#DD2A7B"
 #[[languages.en.params.ananke_socials]]
 #name = "mastodon"
 #url = "https://infosec.exchange/@itspecialistcloud/"
+
+[[languages.en.params.ananke_socials]]
+name = "ko-fi"
+url = "https://ko-fi.com/itspecialistcloud"
 
 #[[params.ananke_socials]]
 #name = "bluesky"
