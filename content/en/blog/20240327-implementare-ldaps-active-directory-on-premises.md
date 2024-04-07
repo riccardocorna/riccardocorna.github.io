@@ -6,7 +6,7 @@ images:
   - "/images/01-the-lab-episode03-ldaps.jpg"
 categories : [ "Identity & Security" ]
 tags: [ "Active Directory", "LDAPS", "Video" ]
-title: "The LAB - Episode 3 - Implementing LDAPS in Active Directory on-premises"
+title: "The Lab - Episode 3 - Implementing LDAPS in Active Directory on-premises"
 url: /en/ldaps-active-directory-on-premises
 ---
 Every forest and Active Directory domain should have LDAPS implemented, but in very few cases is it actually implemented. The topic can be intimidating because it involves certificates, but once you understand some basic concepts, it's easier to tame than it seems. Let's see how to implement it!
