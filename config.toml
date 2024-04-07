@@ -148,10 +148,10 @@ url = "https://linkedin.com/in/riccardocorna/it/"
 name = "youtube"
 url = "https://youtube.com/@ITSpecialistCloud"
 
-[[languages.it.params.ananke_socials]]
-name = "threads"
-url = "https://threads.net/@itspecialistcloud"
-color = "#EE99FF"
+#[[languages.it.params.ananke_socials]]
+#name = "threads"
+#url = "https://threads.net/@itspecialistcloud"
+#color = "#EE99FF"
 
 #[[languages.it.params.ananke_socials]]
 #name = "twitter"
@@ -179,10 +179,10 @@ url = "https://linkedin.com/company/itspecialistcloud/"
 name = "youtube"
 url = "https://youtube.com/@ITSpecialistCloud"
 
-[[languages.en.params.ananke_socials]]
-name = "threads"
-url = "https://threads.net/@itspecialistcloud"
-color = "#EE99FF"
+#[[languages.en.params.ananke_socials]]
+#name = "threads"
+#url = "https://threads.net/@itspecialistcloud"
+#color = "#EE99FF"
 
 #[[languages.en.params.ananke_socials]]
 #name = "twitter"
