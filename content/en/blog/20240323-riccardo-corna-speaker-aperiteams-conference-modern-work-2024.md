@@ -9,7 +9,7 @@ tags: [ "AperiTeams", "Modern Work", "Event" ]
 title: "I will be a speaker at the AperiTeams Conference Modern Work on April 3, 2024"
 url: "/en/riccardo-corna-speaker-aperiteams-conference-modern-work-3-aprile-2024"
 ---
-Folks, I'm excited: I can finally announce that I will also be participating in the [AperiTeams](https://www.aperiteams.it) event on April 3rd, in the beautiful setting of the Microsoft House in Milan! When Silvio Di Benedetto invited me, I couldn't help but accept with great joy!
+Folks, I'm excited: I can finally announce that I will also be participating in the [AperiTeams](https://www.aperiteams.it) event on April 3rd, in the beautiful setting of the Microsoft House in Milan! When Silvio Di Benedetto invited me, I accepted with great joy!
 Here are all the details to participate. 👇🏻
 
 📆 Wednesday, April 3  
