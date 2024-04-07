@@ -6,7 +6,7 @@ images:
   - "/images/01-the-lab-episode03-ldaps.jpg"
 categories : [ "Identity & Security" ]
 tags: [ "Active Directory", "LDAPS", "Video" ]
-title: "Implementare LDAPS in Active Directory on-premises"
+title: "The LAB - Episodio 3 - Implementare LDAPS in Active Directory on-premises"
 url: /ldaps-active-directory-on-premises
 ---
 Specialisti IT, ciao a tutti! Oggi, dopo un po' di tempo, torniamo a parlare di una configurazione dal sapore decisamente on-premises: **LDAPS in Active Directory**.  
