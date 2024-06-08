@@ -1,5 +1,5 @@
 ---
-date: 2024-06-08T05:00:00-00:00
+date: 2024-06-10T05:00:00-00:00
 description: "In questa edizione della #POWERCON2024 il tema centrale è “Rivoluzione digitale in azione”, un invito a immergersi nelle trasformazioni che stanno ridefinendo il nostro mondo."
 featured_image: "/images/Powercon-Online-2024-14-giugno-2024.jpg"
 images:
