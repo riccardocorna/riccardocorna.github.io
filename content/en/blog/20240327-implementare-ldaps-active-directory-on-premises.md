@@ -5,7 +5,7 @@ featured_image: "/images/01-the-lab-episode03-ldaps.jpg"
 images:
   - "/images/01-the-lab-episode03-ldaps.jpg"
 categories : [ "Identity & Security" ]
-tags: [ "Active Directory", "LDAPS", "Video" ]
+tags: [ "Active Directory", "LDAPS", "Video", "The Lab" ]
 title: "The Lab - Episode 3 - Implementing LDAPS in Active Directory on-premises"
 url: /en/ldaps-active-directory-on-premises
 ---

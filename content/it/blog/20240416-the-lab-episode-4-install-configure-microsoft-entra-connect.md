@@ -5,7 +5,7 @@ featured_image: "/images/01-the-lab-episode-4-entra-connect.jpg"
 images:
   - "/images/01-the-lab-episode-4-entra-connect.jpg"
 categories : [ "Identity & Security" ]
-tags: [ "Microsoft Entra Connect", "Active Directory", "Video" ]
+tags: [ "Microsoft Entra Connect", "Active Directory", "Video", "The Lab" ]
 title: "The Lab - Episodio 4 - Installare e configurare Microsoft Entra Connect"
 url: /install-configure-microsoft-entra-connect
 ---

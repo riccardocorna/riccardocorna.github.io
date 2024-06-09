@@ -5,7 +5,7 @@ featured_image: "/images/01-the-lab-episode-5-sso-on-prem-windows-entra-joined-p
 images:
   - "/images/01-the-lab-episode-5-sso-on-prem-windows-entra-joined-pc.jpg"
 categories : [ "Identity & Security" ]
-tags: [ "Single Sign-On", "Active Directory", "Microsoft Entra", "Windows", "Entra Join", "Video" ]
+tags: [ "Single Sign-On", "Active Directory", "Microsoft Entra", "Windows", "Entra Join", "Video", "The Lab" ]
 title: "The Lab - Episodio 5 - SSO su risorse on-premises di un PC Windows Entra Joined"
 url: /the-lab-episode-5-sso-on-prem-windows-entra-joined-pc
 ---
