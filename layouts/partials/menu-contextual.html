@@ -36,10 +36,12 @@
     <p class="f5 b mb3">{{ i18n "followMe" . }}</p>
     <p class="tc">{{ partialCached "social-follow.html" . }}</p>
   </div>
-  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links" style="text-align: center;">
-    <p class="f5 b mb3">Riccardo Corna | Microsoft MVP</p>
-    <p class="tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a></p>
-  </div>
+  <!-- Waiting to be enrolled into the MVP Alumni program
+    <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links" style="text-align: center;">
+      <p class="f5 b mb3">Riccardo Corna | Microsoft MVP</p>
+      <p class="tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a></p>
+    </div>
+  -->
 
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 

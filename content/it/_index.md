@@ -1,17 +1,19 @@
 ---
-title: "Secure Modern IT"
-description: "Aiuto le aziende a evolvere verso un IT moderno e sicuro"
+title: "Riccardo Corna"
+description: "Supporto le aziende nell’adozione ottimale degli strumenti di Microsoft 365 in ambito Modern Work e Cloud Endpoint."
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
   #featured_image: "/images/hugo-barbosa-AZ1dAHLnYFc-unsplash.jpg"
   featured_image: "/images/defaultheader.jpg"
 ---
+
+[Waiting to be enrolled into the MVP Alumni program]: # "Hiding the MVP Logo"
 {{< rawhtml >}}
-  <p class="b tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Secondary_Black_RGB.jpg"></a><br />Riccardo Corna</p>
+  <!-- <p class="b tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Secondary_Black_RGB.jpg"></a><br />Riccardo Corna</p> -->
 {{< / rawhtml >}}
 
-Scopri come ottenere il meglio da **Microsoft 365**, **Azure**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o fai una ricerca sull'argomento che ti interessa.
+Scopri come ottenere il meglio da **Microsoft 365**, **Intune**, **Copilot**, **Windows** e **macOS**. Leggi i miei articoli sfogliando le categorie o fai una ricerca sull'argomento che ti interessa.
 
 {{< rawhtml >}}
   <p class="tc">

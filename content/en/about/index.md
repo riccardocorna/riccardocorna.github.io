@@ -7,17 +7,16 @@ aliases:
   - /riccardo-corna/
   - /riccardocorna/
 ---
-My name is **Riccardo Corna**, and I am an IT Specialist. I mainly work with Microsoft technologies, but my heart is shaped like an Apple. On this blog, I share fragments of my lived IT life.
+My name is **Riccardo Corna** and I am an IT Specialist. I work with **Microsoft** technologies, and on this blog, I share snippets of my lived IT experiences.
 
 {{< figure src="./images/RiccardoCorna.jpg" width="500" >}}
 
-## Want to know more? Okay!
-I work at [Microsys](https://msys.it), a Microsoft partner company, and I hold the position of **Senior Consultant** in the **Systems infrastructure and Security** area. With over 15 years of experience in Microsoft technologies, I design and implement cloud solutions based on **Microsoft 365** and **Azure** for clients, following a **Zero Trust Security** approach. I work with passion, and my goal is to ensure that optimal functioning of IT tools becomes a decisive factor for the success of the client and the company.
+## Want to know more? Sure!
+I work at [Microsoft](https://www.microsoft.com) as a **Cloud Solution Architect** in the **Modern Work Cloud Endpoint** field. I have over 15 years of experience with Microsoft technologies and, in my current role, I support clients in deriving the maximum value from **Microsoft 365**, **Intune**, and **Copilot**, removing any obstacles that might hinder optimal use. I perform my work with passion and my goal is to ensure that the ideal functioning of these tools becomes a decisive factor for the client's success.
 
-Thanks to the outreach activities carried out through this blog, I have been awarded the title of **Microsoft MVP (Most Valuable Professional)** in the **Security** category. Here's my profile.
-
+[Waiting to be enrolled into the MVP Alumni program]: # "Thanks to the outreach activities conducted through this blog, I have been awarded as a **Microsoft MVP (Most Valuable Professional)** in the **Security** category: here is my profile."
 {{< rawhtml >}}
-  <p class="b tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p>
+  <!-- <p class="b tc"><a href="https://mvp.microsoft.com/en-US/mvp/profile/99158a0a-3a6f-ed11-81ab-000d3a5600fa" target="_blank"><img src="/images/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg"></a><br />Riccardo Corna</p> -->
 {{< / rawhtml >}}
 
 Outside of work, I don't mind delving into the world of **web** and **photography**, and I am truly fascinated by everything related to **communication** and **personal growth**.
@@ -25,9 +24,11 @@ Outside of work, I don't mind delving into the world of **web** and **photograph
 I love Rock, Punk, and Indie music, silly T-Shirts, and potato chips in a bag. 🤤
 
 ## My Skills
-Over the years, I have primarily worked with **Microsoft** technologies. Specifically, I work with **Microsoft 365**, **Azure**, and **Active Directory**.
+Over all these years, I have worked with various Microsoft technologies including Active Directory, Microsoft Entra, Microsoft Exchange, and Microsoft Security.
 
-However, deep down, my heart is shaped like an **Apple**, and I have gained significant experience in integrating Apple technologies and devices in the corporate environment.
+Today, specifically, I work with **Microsoft 365**, **Intune**, and **Copilot**.
+
+However, deep down, a part of my heart is Apple-shaped, and I have gained good experience in integrating **Apple** technologies and devices in the corporate environment.
 
 I always dedicate a part of my time to studying because I believe that continuous learning is an essential tool for developing one's skills and the necessary adaptability to today's technological and organizational changes.
 
