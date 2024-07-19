@@ -1,11 +1,11 @@
 ---
 date: 2020-11-17T08:00:00-00:00
-description: "Sono stato invitato come speaker al secondo meetup del Windows Virtual Desktop Italian User Group che si terrà l'1 Dicembre 2020."
+description: "Sono stato invitato come speaker al secondo meetup del Windows Virtual Desktop Italian User Group che si terrà il 1 Dicembre 2020."
 featured_image: "/images/01-Windows-Virtual-Desktop-Italian-User-Group-secondo-meetup-1.jpg"
 categories: [ "Eventi & Community"]
 tags: [ "Azure Virtual Desktop", "Evento" ]
 title: "eBook Windows Virtual Desktop Quickstart Guide (gratis)"
-url: "/Windows Virtual Desktop Italian User Group, 2° meetup: ci vediamo l’1 Dicembre 2020!"
+url: "/windows-virtual-desktop-italian-user-group-meetup-1-dicembre-2020"
 ---
 **Martedì 1 Dicembre 2020** succederà qualcosa di incredibile!
 Grazie a [Marco Moioli](https://www.linkedin.com/in/marcomoioli/) di Microsoft Italia, mi è stata data la straordinaria opportunità di partecipare come speaker al secondo meetup del **Windows Virtual Desktop Italian User Group**! Ora ti racconto tutto...
