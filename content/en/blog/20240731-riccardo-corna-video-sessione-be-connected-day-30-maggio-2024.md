@@ -4,7 +4,7 @@ description: "The video of the session I held at the Be Connected Day event on M
 featured_image: "/images/01-be-connected-day-2024-riccardo-corna-davide-salsi-intune-suite-ai-copilot.jpg"
 images:
   - "/images/01-be-connected-day-2024-riccardo-corna-davide-salsi-intune-suite-ai-copilot.jpg"
-categories : [ "Events & Community" ]
+categories : [ "Events & Community", "Modern Endpoint" ]
 tags: [ "Event", "Be Connected Day 12", "Intune", "Intune Suite", "Copilot for Security" ]
 title: "The video of the session at Be Connected Day 12 is now online"
 url: /en/riccardo-corna-video-sessione-be-connected-day-30-maggio-2024
