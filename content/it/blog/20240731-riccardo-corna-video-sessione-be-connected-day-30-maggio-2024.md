@@ -5,7 +5,7 @@ featured_image: "/images/01-be-connected-day-2024-riccardo-corna-davide-salsi-in
 images:
   - "/images/01-be-connected-day-2024-riccardo-corna-davide-salsi-intune-suite-ai-copilot.jpg"
 categories : [ "Eventi & Community", "Modern Endpoint" ]
-tags: [ "Evento", "Be Connected Day 12", "Intune", "Intune Suite", "Copilot for Security" ]
+tags: [ "Evento", "Be Connected Day 12", "Intune", "Intune Suite", "Copilot for Security", "Video" ]
 title: "Online il video della sessione al Be Connected Day 12"
 url: /riccardo-corna-video-sessione-be-connected-day-30-maggio-2024
 ---
