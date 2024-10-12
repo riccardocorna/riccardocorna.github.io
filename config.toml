@@ -9,6 +9,10 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 #googleAnalytics = ""
 enableRobotsTXT = true
 
+[services]
+  [services.rss]
+    limit = 15
+
 [languages]
   [languages.it]
     title = "IT Specialist Cloud"
