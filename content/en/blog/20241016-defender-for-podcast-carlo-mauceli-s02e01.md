@@ -27,7 +27,7 @@ What did we talk about?
 🎙️ [Spotify podcast](https://lnkd.in/dE6Q8zsK)
 
 Here are the links to the resources we referenced during this episode:  
-📌 Carlo Mauceli's article
+📌 [ Carlo Mauceli' article](https://www.difesaonline.it/evidenza/cyber/il-mercato-nero-delle-intelligenze-artificiali-ecco-voi-i-malla)
 
 📌 Microsoft resources for study  
 🔗 [Embrace proactive security with Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust?msockid=31effe77686e6d3c1858eb7269b36cd1)  
