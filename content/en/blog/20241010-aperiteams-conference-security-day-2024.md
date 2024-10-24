@@ -1,15 +1,15 @@
 ---
 date: 2024-10-10T05:00:00-00:00
-description: "Images and impressions from the wonderful day spent at Microsoft House during the Aperiteams Conference Security Day 2024."
+description: "Images and impressions from the wonderful day spent at Microsoft House during the AperiTeams Conference Security Day 2024."
 featured_image: "/images/01-aperiteams-conference-security-day-2024.jpg"
 images:
   - "/images/01-aperiteams-conference-security-day-2024.jpg"
 categories : [ "Eventi & Community" ]
-tags: [ "Event", "Aperiteams" ]
-title: "Aperiteams Conference Security Day 2024: thank you all!"
+tags: [ "Event", "AperiTeams" ]
+title: "AperiTeams Conference Security Day 2024: thank you all!"
 url: /en/aperiteams-conference-security-day-2024
 ---
-What a great day as always at the [Aperiteams Conference](https://www.aperiteams.it) Security Day! I had so much fun with [Simone Frigerio](https://www.linkedin.com/in/frigerio-simone/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B57kKimDYQkuhV8iVJPJROg%3D%3D) and I hope this is the first of many sessions together.
+What a great day as always at the [AperiTeams Conference](https://www.aperiteams.it) Security Day! I had so much fun with [Simone Frigerio](https://www.linkedin.com/in/frigerio-simone/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B57kKimDYQkuhV8iVJPJROg%3D%3D) and I hope this is the first of many sessions together.
 
 Special thanks to [Silvio Di Benedetto](https://www.linkedin.com/in/silviodibenedetto/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B57kKimDYQkuhV8iVJPJROg%3D%3D) and [Irene Bugatti](https://www.linkedin.com/in/irenebugatti/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B57kKimDYQkuhV8iVJPJROg%3D%3D) for giving me this amazing opportunity, and finally, thank you to everyone who followed us, both remotely and in-person. It’s always a pleasure to chat with those who attend in person after the sessions.
 
