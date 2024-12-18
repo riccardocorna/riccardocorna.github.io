@@ -15,7 +15,7 @@ url: /scep-certificate-tips-eap-tls-intune-cloud-pki
 Volete autenticare un dispositivo via certificato (EAP-TLS), usando Intune Cloud PKI, profili SCEP via Intune e il server è un NPS Windows Server. I client sono joinati a dominio, Hybrid Entra Joined e gestiti da Intune.
 
 ## 🔨 Configurazione
-Il certificato SCEP, in questo caso, ha dei requisiti ben precisi soprattutto sul Subject Alternative Name (SAN). Li trovate tutti qui:
+Il certificato SCEP, in questo caso, ha dei requisiti ben precisi soprattutto sul Subject Alternative Name (SAN). Li trovate qui:
 
 📃 [Certificate requirements when you use EAP-TLS or PEAP with EAP-TLS](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/certificate-requirements-eap-tls-peap#client-certificate-requirements)
 
