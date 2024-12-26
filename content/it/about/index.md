@@ -11,7 +11,7 @@ Mi chiamo **Riccardo Corna** e sono un IT Specialist. Lavoro su tecnologie **Mic
 {{< figure src="./images/RiccardoCorna.jpg" width="500" >}}
 
 ## Vuoi saperne di più? Ok!
-Lavoro in [Microsoft](https://www.microsoft.com) come **Cloud Solution Architect** in ambito **Modern Work Cloud Endpoint**. Ho oltre 15 anni di esperienza su tecnologie Microsoft e, nel mio attuale ruolo, supporto i clienti nel trarre il massimo valore da **Microsoft 365**, **Intune** e **Copilot**, rimuovendo ogni eventuale ostacolo che possa impedirne un utilizzo ottimale. Svolgo il mio lavoro con passione e il mio obiettivo è far sì che il funzionamento ideale di questi strumenti diventi un fattore decisivo per il successo del cliente.
+Lavoro in [Microsoft](https://www.microsoft.com) come **Cloud Solution Architect** in ambito **Modern Work**. Ho oltre 15 anni di esperienza su tecnologie Microsoft e, nel mio attuale ruolo, supporto i clienti nel trarre il massimo valore da **Microsoft 365**, **Intune** e **Copilot**, rimuovendo ogni eventuale ostacolo che possa impedirne un utilizzo ottimale. Svolgo il mio lavoro con passione e il mio obiettivo è far sì che il funzionamento ideale di questi strumenti diventi un fattore decisivo per il successo del cliente.
 
 [Waiting to be enrolled into the MVP Alumni program]: # "Grazie alle attività di divulgazione svolte attraverso questo blog, sono stato premiato come **Microsoft MVP (Most Valuable Professional)** nella categoria **Security**: ecco il mio profilo."
 {{< rawhtml >}}
