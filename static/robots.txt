@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /sos/
+Sitemap: https://itspecialist.cloud/sitemap.xml
