@@ -1,7 +1,0 @@
-{{ define "main" }}
-  {{ partial "head-additions.html" . }}
-  {{ partial "site-footer.html" . }}
-  <script>
-    window.location.href = "/redirect.html?redirect_url={{ .Params.redirect_url }}";
-  </script>
-{{ end }}
