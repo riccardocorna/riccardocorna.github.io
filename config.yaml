@@ -35,7 +35,7 @@ services:
     # GA Tracking ID
     #googleAnalytics:
     #    id:
-timeout: 120s
+timeout: 240s
 
 pagination:
     pagerSize: 5
