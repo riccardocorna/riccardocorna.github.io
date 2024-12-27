@@ -35,6 +35,8 @@ services:
     # GA Tracking ID
     #googleAnalytics:
     #    id:
+
+# Timeout to generate site's pages   
 timeout: 240s
 
 pagination:
