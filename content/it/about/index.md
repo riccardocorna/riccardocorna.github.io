@@ -23,7 +23,7 @@ Al di fuori del lavoro non disdegno qualche incursione nel mondo del **web** e d
 Adoro il Rock, il Punk e l'Indie music, le T-Shirt stupide, le patatine nel sacchetto. 🤤
 
 ## Le mie competenze
-Nel corso i tutti questi anni mi sono occupato di diverse tecnologie Microsoft tra cui Active Directory, Microsoft Entra, Microsoft Exchange, Microsoft Security.
+Nel corso di tutti questi anni mi sono occupato di diverse tecnologie Microsoft tra cui Active Directory, Microsoft Entra, Microsoft Exchange, Microsoft Security.
 
 Oggi, nello specifico, lavoro su **Microsoft 365**, **Intune**, **Copilot**.
 
