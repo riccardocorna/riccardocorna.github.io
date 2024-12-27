@@ -1,4 +1,5 @@
 ---
+date: 2024-12-27T08:00:00-00:00
 title: "SOS! Istruzioni per assistenza remota"
 description: "Da questa pagina potrai scaricare Splashtop SOS, software di assistenza remota attraverso cui è possibile, dietro esplicito consenso, concedere il controllo del PC."
 image: "sos-logo.1cd52fe4.png"
