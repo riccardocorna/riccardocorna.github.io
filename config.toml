@@ -1,0 +1,222 @@
+baseURL = "https://itspecialist.cloud"
+languageCode = "it-it"
+title = "IT Specialist Cloud"
+theme = "ananke"
+
+DefaultContentLanguage = "it"
+#SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+#googleAnalytics = ""
+enableRobotsTXT = true
+
+[services]
+  [services.rss]
+    limit = 15
+
+[languages]
+  [languages.it]
+    title = "IT Specialist Cloud"
+    weight = 1
+    contentDir = "content/it"
+  [languages.en]
+    title = "IT Specialist Cloud"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  blog = "/:title/"
+
+[menu]
+[[languages.it.menu.main]]
+  identifier = "about"
+  name = "whoami"
+  url = "/about"
+  weight = 2
+[[languages.en.menu.main]]
+  identifier = "about"
+  name = "whoami"
+  url = "/en/about"
+  weight = 2
+
+[[languages.it.menu.main]]
+  identifier = "eventi-community"
+  name = "eventi"
+  url = "/categories/eventi-community"
+  weight = 3
+[[languages.en.menu.main]]
+  identifier = "eventi-community"
+  name = "events"
+  url = "/en/categories/eventi-community"
+  weight = 3
+
+[[languages.it.menu.main]]
+  identifier = "identity-security"
+  name = "security"
+  url = "/categories/identity-security"
+  weight = 4
+[[languages.en.menu.main]]
+  identifier = "identity-security"
+  name = "security"
+  url = "/en/categories/identity-security"
+  weight = 4
+
+
+[[languages.it.menu.main]]
+  identifier = "modern-endpoint"
+  name = "modern IT"
+  url = "/categories/modern-endpoint"
+  weight = 5
+[[languages.en.menu.main]]
+  identifier = "modern-endpoint"
+  name = "modern IT"
+  url = "/en/categories/modern-endpoint"
+  weight = 5
+
+[[languages.it.menu.main]]
+  identifier = "cloud-datacenter"
+  name = "cloud"
+  url = "/categories/cloud-datacenter"
+  weight = 6
+[[languages.en.menu.main]]
+  identifier = "cloud-datacenter"
+  name = "cloud"
+  url = "/en/categories/cloud-datacenter"
+  weight = 6
+
+[[languages.it.menu.main]]
+  identifier = "altro"
+  name = "altro"
+  url = "/categories/altro"
+  weight = 7
+[[languages.en.menu.main]]
+  identifier = "altro"
+  name = "miscellaneous"
+  url = "/en/categories/altro"
+  weight = 7
+
+[[languages.it.menu.main]]
+  identifier = "divagazioni"
+  name = "divagazioni"
+  url = "/categories/divagazioni"
+  weight = 8
+[[languages.en.menu.main]]
+  identifier = "divagazioni"
+  name = "digressions"
+  url = "/en/categories/divagazioni"
+  weight = 8
+
+[[languages.it.menu.main]]
+  identifier = "archivio"
+  name = "archivio"
+  url = "/categories/archivio"
+  weight = 9
+
+[[languages.it.menu.main]]
+  identifier = "privacy-policy"
+  name = "privacy policy"
+  url = "https://www.iubenda.com/privacy-policy/37879840"
+  weight = 10
+[[languages.en.menu.main]]
+  identifier = "privacy-policy"
+  name = "privacy policy"
+  url = "https://www.iubenda.com/privacy-policy/37879840"
+  weight = 10
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = "favicon.ico"
+  site_logo = ""
+  description = "Tutorial e appunti di vita informatica vissuta su Windows, Azure, Microsoft 365. Un blog di Riccardo Corna, IT Specialist con oltre 15 anni di esperienza."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  #body_classes = "sans-serif bg-near-white"
+  #post_content_classes = "serif"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  show_reading_time = true
+
+[[languages.it.params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/riccardocorna/it/"
+
+[[languages.it.params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/@ITSpecialistCloud"
+
+#[[languages.it.params.ananke_socials]]
+#name = "threads"
+#url = "https://threads.net/@itspecialistcloud"
+#color = "#EE99FF"
+
+#[[languages.it.params.ananke_socials]]
+#name = "twitter"
+#url = "https://x.com/itspecialcloud"
+#color = "#139AE9"
+
+[[languages.it.params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/itspecialistcloud"
+color = "#DD2A7B"
+
+#[[languages.it.params.ananke_socials]]
+#name = "mastodon"
+#url = "https://infosec.exchange/@itspecialistcloud/"
+
+[[languages.it.params.ananke_socials]]
+name = "ko-fi"
+url = "https://ko-fi.com/itspecialistcloud"
+
+[[languages.en.params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/company/itspecialistcloud/"
+
+[[languages.en.params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/@ITSpecialistCloud"
+
+#[[languages.en.params.ananke_socials]]
+#name = "threads"
+#url = "https://threads.net/@itspecialistcloud"
+#color = "#EE99FF"
+
+#[[languages.en.params.ananke_socials]]
+#name = "twitter"
+#url = "https://x.com/itspecialcloud"
+#color = "#139AE9"
+
+[[languages.en.params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/itspecialistcloud"
+color = "#DD2A7B"
+
+#[[languages.en.params.ananke_socials]]
+#name = "mastodon"
+#url = "https://infosec.exchange/@itspecialistcloud/"
+
+[[languages.en.params.ananke_socials]]
+name = "ko-fi"
+url = "https://ko-fi.com/itspecialistcloud"
+
+#[[params.ananke_socials]]
+#name = "bluesky"
+#url = "https://bsky.app/profile/itspecialist.cloud"
+#color = "#595AFF"
+
+#[[params.ananke_socials]]
+#name = "sessionize"
+#url = "https://sessionize.com/riccardocorna/"
+#color = "#1AB394"
+
+#[[params.ananke_socials]]
+#name = "ko-fi"
+#url = "https://ko-fi.com/riccardocorna"
+#color = "#00B0F1"

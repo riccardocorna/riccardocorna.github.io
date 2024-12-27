@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /sos/
+Disallow: /mvp/
+Disallow: /linkedin/
+Disallow: /youtube/
+Disallow: /x/
+Disallow: /instagram/
+Sitemap: https://itspecialist.cloud/sitemap.xml
