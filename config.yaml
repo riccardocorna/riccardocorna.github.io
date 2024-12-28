@@ -15,14 +15,14 @@ hasCJKLanguage: false
 languages:
     it:
         languageName: Italiano
-        title: IT Specialist Cloud
+        title: Riccardo Corna
         weight: 1
         params:
             sidebar:
                 subtitle: Supporto le aziende nell'adozione ottimale di Microsoft 365
     en:
         languageName: English
-        title: IT Specialist Cloud
+        title: Riccardo Corna
         weight: 2
         params:
             sidebar:
