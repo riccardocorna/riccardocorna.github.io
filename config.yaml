@@ -233,6 +233,12 @@ menu:
           url: https://bsky.app/profile/itspecialist.cloud
           params:
               icon: bluesky
+        
+        - identifier: rss
+          name: RSS
+          url: https://itspecialist.cloud/index.xml
+          params:
+              icon: rss
 
 related:
     includeNewer: true
