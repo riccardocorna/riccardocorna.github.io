@@ -1,7 +1,7 @@
 ---
 date: 2025-01-22T05:00:00-00:00
 description: "How to configure Platform Single Sign-On on macOS with Microsoft Entra and Intune. Quick guide on authentication methods, compliance policies, and useful tips for secure and integrated login."
-image: "01-macos-platform-single-sign-om-sso-password.jpg"
+image: "01-macos-platform-single-sign-on-sso-password.jpg"
 categories: [ "Security", "Modern Work" ]
 tags: [ "Microsoft Intune", "Intune", "macOS", "Platform SSO", "Single Sign-On", "Microsoft Entra", "Video", "Tutorial" ]
 title: "macOS Platform SSO: Mac login with Microsoft Entra username and password"
@@ -30,6 +30,32 @@ Without further ado, today I will show you how to configure the Platform Single 
 Ready? Let's create the policy!
 
 {{< youtubestartend qtEkLFvppG8 58 166 >}}
+
+Here are the values I used to set the configuration profile.
+
+- **Screen Locked Behavior**: Do Not Handle
+- **Registration Token**: {{DEVICEREGISTRATION}}
+- **Platform SSO**
+  - **Authentication Method**: UserSecureEnclaveKey
+  - **Enable Authorization**: Enabled
+  - **Enable Create User At Login**: Enabled
+  - **New User Authorization Mode**: Admin
+  - **Token To User Mapping**
+    - **Account Name**: preferred_username
+    - **Full Name**: name
+  - **Use Shared Device Keys**: Enabled
+  - **User Authorization Mode**: Admin
+- **Team Identifier**: UBF8T346G9
+- **Extension Identifier**: com.microsoft.CompanyPortalMac.ssoextension
+- **Type**: Redirect
+- **URLs**
+  - https://login.microsoftonline.com
+  - https://login.microsoft.com
+  - https://sts.windows.net
+  - https://login.partner.microsoftonline.cn
+  - https://login.chinacloudapi.cn
+  - https://login.microsoftonline.us
+  - https://login-us.microsoftonline.com
 
 ### Joining the Mac to Entra
 The policy has been created and assigned. Now we just have to wait for it to be received by the Mac and then join it to Entra ID.
