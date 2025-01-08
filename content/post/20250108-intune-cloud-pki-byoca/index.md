@@ -72,13 +72,21 @@ Guardate la durata di questo video e ditemi se non è pazzesco riuscire a metter
 
 {{< rawhtml >}}
   <div class="disclaimer-box" style="background-color:rgb(252, 229, 183); border: 1px solid rgb(252, 229, 183); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; font-weight: bold;">
-    <p>⚠️ **DISCLAIMER**: come sempre, questo è un video fatto a fini didattici, in cui, essendo in un laboratorio, ho dovuto fare delle assunzioni sulle configurazioni delle policy, dei certificati, eccetera eccetera.</p>
+    <p>⚠️ **DISCLAIMER**: come sempre, questo è un video fatto a fini didattici. Essendo in un laboratorio, ho dovuto fare delle assunzioni sulle configurazioni delle policy, dei certificati, eccetera eccetera.</p>
   </div>
 {{< / rawhtml >}}
 
 
 In produzione fate le opportune analisi, prima di buttarvi a capofitto nell’integrazione della vostra CA con Intune Cloud PKI!
-Per approfondire l’argomento vi lascio in descrizione la solita documentazione che profuma ancora di capodanno 2024-2025.
+Per approfondire l’argomento vi lascio qui sotto la solita documentazione che profuma ancora di capodanno 2024-2025.
+
+**Documentazione: trovate la documentazione aggiornata nei link qui sotto.**
+
+📃 [Overview of Microsoft Cloud PKI for Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-overview)  
+📃 [Microsoft Cloud PKI fundamentals](https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-fundamentals)  
+📃 [Configure Microsoft Cloud PKI - Bring your own CA](https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-configure-byoca)  
+📃 [How to export Root Certification Authority Certificate](https://learn.microsoft.com/en-us/troubleshoot/windows-server/certificates-and-public-key-infrastructure-pki/export-root-certification-authority-certificate)
+
 Fatemi sapere se vi piacciono questi video più veloci e leggeri, scrivetemelo qui nei commenti.
 
 Come sempre, seguitemi sui miei profili social e, se vi va, iscrivetevi al mio canale: per me è molto importante!

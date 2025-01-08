@@ -72,12 +72,19 @@ Look at the duration of this video and tell me if it's not amazing to be able to
 
 {{< rawhtml >}}
   <div class="disclaimer-box" style="background-color:rgb(252, 229, 183); border: 1px solid rgb(252, 229, 183); padding: 15px; margin: 20px 0; border-radius: 5px; color: #333; font-weight: bold;">
-    <p>⚠️ **DISCLAIMER**: as always, this is an educational video, in which, being in a lab, I had to make assumptions about the configurations of policies, certificates, etc.</p>
+    <p>⚠️ **DISCLAIMER**: as always, this is an educational video. Being in a lab, I had to make assumptions about the configurations of policies, certificates, etc.</p>
   </div>
 {{< / rawhtml >}}
 
 In production, do the appropriate analysis before diving headfirst into integrating your CA with Intune Cloud PKI!
-To delve deeper into the topic, I leave you in the description the usual documentation that still smells like New Year's Eve 2024-2025.
+To delve deeper into the topic, I leave you the usual documentation that still smells like New Year's Eve 2024-2025.
+
+📃 [Overview of Microsoft Cloud PKI for Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-overview)  
+📃 [Microsoft Cloud PKI fundamentals](https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-fundamentals)  
+📃 [Configure Microsoft Cloud PKI - Bring your own CA](https://learn.microsoft.com/en-us/mem/intune/protect/microsoft-cloud-pki-configure-byoca)  
+📃 [How to export Root Certification Authority Certificate](https://learn.microsoft.com/en-us/troubleshoot/windows-server/certificates-and-public-key-infrastructure-pki/export-root-certification-authority-certificate)
+
+
 Let me know if you like these faster and lighter videos, write it here in the comments.
 
 As always, follow me on my social profiles and, if you like, subscribe to my channel: it is very important to me!
