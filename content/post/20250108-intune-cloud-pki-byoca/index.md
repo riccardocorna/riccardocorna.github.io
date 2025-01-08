@@ -48,11 +48,13 @@ Torniamo su Intune, scarichiamo la CSR da dare in pasto alla CA on-prem per gene
 ## Firma CSR e generazione certificato della Issuing CA
 Firmiamo la richiesta e generiamo il certificato della CA Issuing.
 
-Ecco il comando generare il certificato.
+Ecco il comando per generare il certificato.
 
    ```
-    certreq -submit -attrib "CertificateTemplate:SubCA" -config "ME-SRV-01|ITSpecialistLabCloud-CA" "ME Contoso BYOCA Issuing CA.req" "ME Contoso BYOCA Issuing CA.cer"  
+    certreq -submit -attrib "CertificateTemplate:<template_name>" -config "<CA_server_name>\<CA_name>" <request_file> <response_file>  
    ```  
+
+**Questa è una sintassi di esempio: sostituite le voci in parentesi con i vostri parametri!**
 
 {{< youtubestartend xKfFpOhDJvs  152 169 >}}
 

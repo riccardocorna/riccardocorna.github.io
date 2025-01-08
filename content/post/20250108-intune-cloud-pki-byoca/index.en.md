@@ -51,8 +51,10 @@ We sign the request and generate the Issuing CA certificate.
 Here is the command to generate the certificate.
 
    ```
-    certreq -submit -attrib "CertificateTemplate:SubCA" -config "ME-SRV-01|ITSpecialistLabCloud-CA" "ME Contoso BYOCA Issuing CA.req" "ME Contoso BYOCA Issuing CA.cer"  
+    certreq -submit -attrib "CertificateTemplate:<template_name>" -config "<CA_server_name>\<CA_name>" <request_file> <response_file>  
    ```  
+
+**This is a sample syntax, replace the entries in parentheses with your parameters!**
 
 {{< youtubestartend xKfFpOhDJvs  152 169 >}}
 
