@@ -5,7 +5,7 @@ image: "01-macos-platform-single-sign-on-sso-password.jpg"
 categories : [ "Security", "Modern Work" ]
 tags: [ "Microsoft Intune", "Intune", "macOS", "Platform SSO", "Single Sign-On", "Microsoft Entra", "Video", "Guida" ]
 title: "macOS Platform SSO: login sul Mac con utenza Microsoft Entra"
-url: /macos-platform-single-sign-om-sso-password
+url: /macos-platform-single-sign-on-sso-password
 ---
 Ciao a tutti, specialisti IT! Oggi parliamo di Platform Single Sign-On su macOS!
 
