@@ -228,11 +228,17 @@ menu:
           params:
               icon: brand-instagram
         
-        - identifier: bluesky
-          name: BlueSky
-          url: https://bsky.app/profile/itspecialist.cloud
+        #- identifier: bluesky
+        #  name: BlueSky
+        #  url: https://bsky.app/profile/itspecialist.cloud
+        #  params:
+        #      icon: bluesky
+        
+        - identifier: whatsapp
+          name: WhatsApp
+          url: https://whatsapp.com/channel/0029Vb3983JKWEKk3zWnEG1L
           params:
-              icon: bluesky
+              icon: brand-whatsapp
         
         - identifier: rss
           name: RSS
