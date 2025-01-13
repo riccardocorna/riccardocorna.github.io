@@ -5,7 +5,7 @@ image: "01-scep-configuration-profiles-intune-cloud-pki.jpg"
 categories: [ "Modern Work", "Security" ]
 tags: [ "Microsoft Intune", "Cloud PKI", "SCEP", "Configuration Profiles", "Video", "Tutorial" ]
 title: "SCEP Configuration Profiles for Intune Cloud PKI"
-url: /en/intune-enhanced-device-hardware-inventory
+url: /en/scep-configuration-profiles-intune-cloud-pki
 ---
 IT specialists, hello everyone! Do you remember that some time ago we saw [how to implement a Cloud PKI with Microsoft Intune](/en/intune-cloud-pki-byoca-cloud-endpoint-diary)? Well, it's time to use it by requesting certificates with SCEP configuration profiles!
 
