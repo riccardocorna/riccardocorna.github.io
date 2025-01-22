@@ -36,7 +36,7 @@ Here are the values I used to set the configuration profile.
 - **Screen Locked Behavior**: Do Not Handle
 - **Registration Token**: {{DEVICEREGISTRATION}}
 - **Platform SSO**
-  - **Authentication Method**: UserSecureEnclaveKey
+  - **Authentication Method**: Password
   - **Enable Authorization**: Enabled
   - **Enable Create User At Login**: Enabled
   - **New User Authorization Mode**: Admin

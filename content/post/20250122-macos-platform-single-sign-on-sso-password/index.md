@@ -36,7 +36,7 @@ Qui di seguito ecco i valori che ho usato per il profilo di configurazione di In
 - **Screen Locked Behavior**: Do Not Handle
 - **Registration Token**: {{DEVICEREGISTRATION}}
 - **Platform SSO**
-  - **Authentication Method**: UserSecureEnclaveKey
+  - **Authentication Method**: Password
   - **Enable Authorization**: Enabled
   - **Enable Create User At Login**: Enabled
   - **New User Authorization Mode**: Admin
