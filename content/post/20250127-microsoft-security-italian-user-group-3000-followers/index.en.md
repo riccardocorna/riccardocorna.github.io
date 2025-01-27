@@ -16,6 +16,8 @@ And you, are you not one of us yet? Sign up to stay always updated on Microsoft 
 
 ➡️ [Microsoft Security Italian User Group](https://aka.ms/msiug)
 
+[![3000 members! Thank you](1737967549620.jpeg)](https://aka.ms/msiug)
+
 In addition to the LinkedIn community, we are active on YouTube and Spotify:
 
 📺 [YouTube](https://www.youtube.com/@microsoftsecurityitalianus7402)

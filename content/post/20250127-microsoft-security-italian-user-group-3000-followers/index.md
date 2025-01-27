@@ -4,7 +4,7 @@ description: "Unisciti al Microsoft Security Italian User Group e scopri le ulti
 image: "1737967549620.jpeg"
 categories : [ "Community" ]
 tags: [ "Microsoft Security Italian User Group", "Community", "Linkedin", "WSUS" ]
-title: "DLa Forza della Community: Superati i 3000 Membri nel Microsoft Security Italian User Group"
+title: "La Forza della Community: Superati i 3000 Membri nel Microsoft Security Italian User Group"
 url: /microsoft-security-italian-user-group-3000-follower
 ---
 🎉 Oggi si festeggia un risultato incredibile! Il gruppo Microsoft Security Italian User Group ha superato i 3000 membri! 🚀
@@ -15,6 +15,8 @@ Un enorme "grazie" anche ai miei partner in crime nella gestione della community
 E voi, non siete ancora dei nostri? Iscrivetevi per rimanere sempre aggiornati sui prodotti e servizi Microsoft e per entrare in contatto con altri esperti di sicurezza. 
 
 ➡️ [Microsoft Security Italian User Group](https://aka.ms/msiug)
+
+[![Festeggiamo i 3000 fmembri della community!](1737967549620.jpeg)](https://aka.ms/msiug)
 
 Oltre alla community su LinkedIn, siamo attivi su YouTube e Spotify:
 
