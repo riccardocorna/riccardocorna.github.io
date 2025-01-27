@@ -16,7 +16,7 @@ E voi, non siete ancora dei nostri? Iscrivetevi per rimanere sempre aggiornati s
 
 ➡️ [Microsoft Security Italian User Group](https://aka.ms/msiug)
 
-[![Festeggiamo i 3000 fmembri della community!](1737967549620.jpeg)](https://aka.ms/msiug)
+[![Festeggiamo i 3000 membri della community!](1737967549620.jpeg)](https://aka.ms/msiug)
 
 Oltre alla community su LinkedIn, siamo attivi su YouTube e Spotify:
 
