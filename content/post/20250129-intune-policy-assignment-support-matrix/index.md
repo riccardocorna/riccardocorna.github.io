@@ -1,6 +1,6 @@
 ---
 date: 2025-01-29T05:00:00-00:00
-description: "Esplorate come assegnare e gestire le policy di Microsoft Entra per ottimizzare la sicurezza e l'efficienza dei vostri dispositivi e utenti. Mini-guida con consigli pratici e best practice."
+description: "Esplorate come assegnare e gestire le policy di Microsoft Intune per ottimizzare la sicurezza e l'efficienza dei vostri dispositivi e utenti. Mini-guida con consigli pratici e best practice."
 image: "01-include-exclude-user-device-groups-matrix.png"
 categories : [ "Modern Work" ]
 tags: [ "Microsoft Intune", "Profili di configurazione", "Policy", "Best practice","Guida" ]

@@ -1,6 +1,6 @@
 ---
 date: 2025-01-29T05:00:00-00:00
-description: "Explore how to assign and manage Microsoft Entra policies to optimize the security and efficiency of your devices and users. Mini-guide with practical tips and best practices."
+description: "Explore how to assign and manage Microsoft Intune policies to optimize the security and efficiency of your devices and users. Mini-guide with practical tips and best practices."
 image: "01-include-exclude-user-device-groups-matrix.png"
 categories: [ "Modern Work" ]
 tags: [ "Microsoft Intune", "Configuration Profiles", "Policies", "Best Practices", "Guide" ]
