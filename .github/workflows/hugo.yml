@@ -34,7 +34,9 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" | tee hugo.log
-        continue-on-error: true
+
+      - name: Check build output
+        run: ls -la ./public
 
       - name: Upload build logs
         if: failure()
@@ -63,6 +65,9 @@ jobs:
         with:
           name: hugo-site
           path: ./public
+
+      - name: Check downloaded artifact
+        run: ls -la ./public
 
       - name: Deploy to GitHub Pages
         id: deployment
