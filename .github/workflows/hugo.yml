@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+permissions:
+  id-token: write
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -64,4 +68,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
         with:
-          artifact-name: hugo-site
+          artifact_name: hugo-site
