@@ -82,6 +82,9 @@ jobs:
           name: hugo-site
           path: public
 
+      - name: Debug Downloaded Artifact
+        run: ls -la public
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
