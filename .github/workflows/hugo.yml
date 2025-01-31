@@ -57,6 +57,7 @@ jobs:
         run: |
           if [ -d "public" ]; then
             echo "Build directory exists."
+            ls -la public
           else
             echo "Build directory does not exist."
             exit 1
