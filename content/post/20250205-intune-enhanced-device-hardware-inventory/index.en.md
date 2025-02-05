@@ -38,6 +38,13 @@ Perfect, after about 24 hours from the first policy setup, we will see the resul
 
 {{< youtubestartend z3S3hANsFHE 114 130 >}}
 
+## Attached documentation
+Here are the links to the official documentation of this feature.
+
+📃 [Enhanced hardware inventory in Intune](https://techcommunity.microsoft.com/blog/microsoftintuneblog/enhanced-hardware-inventory-in-intune-coming-in-december/4303744)  
+📃 [Properties catalog in Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/configuration/properties-catalog)
+
+
 ### Conclusions
 Now it is really much easier to collect hardware information on your machine fleet.
 Clearly, there are some requirements that devices must meet in terms of operating systems and type of enrollment/management on Intune: I have left everything you need to delve deeper, below in the description!
