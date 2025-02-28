@@ -23,7 +23,7 @@ Three fundamental things before starting.
 
 Here are the results of my tests and a proposed flow for changing or resetting the password, even if the user doesn't remember it!
 
-![1](Slide1.PNG) ![2](Slide2.PNG) ![3](Slide3.PNG) ![4](Slide4.PNG) ![5](Slide5.PNG) ![6](Slide6.PNG) ![7](Slide7.PNG) ![8](Slide8.PNG) ![9](Slide9.PNG) ![10](Slide10.PNG) ![11](Slide11.PNG)
+![1](EN-Slide1.PNG) ![2](EN-Slide2.PNG) ![3](EN-Slide3.PNG) ![4](EN-Slide4.PNG) ![5](EN-Slide5.PNG) ![6](EN-Slide6.PNG) ![7](EN-Slide7.PNG) ![8](EN-Slide8.PNG) ![9](EN-Slide9.PNG) ![10](EN-Slide10.PNG) ![11](EN-Slide11.PNG)
 
 📝 Final note: remember that, at the moment, macOS PSSO via Intune is still in Preview, so the features are not yet final.
 
