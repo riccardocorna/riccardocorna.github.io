@@ -3,7 +3,7 @@ date: 2025-01-08T05:00:00-00:00
 description: "Learn how to configure Intune Cloud PKI in BYOCA mode. Step-by-step guide to simplify certificate management for Intune devices without on-premises servers. Educational video with updated documentation."
 image: "01-cloud-endpoint-diary-intune-cloud-pki-byoca.jpg"
 categories : [ "Security", "Modern Work" ]
-tags: [ "Microsoft Intune", "Intune", "Cloud PKI", "Security", "BYOCA", "Video", "Guide" ]
+tags: [ "Microsoft Intune", "Intune", "Cloud PKI", "Security", "BYOCA", "Video", "Guide", "Cloud Endpoint Diary" ]
 title: "Intune Cloud PKI (Bring Your Own Certification Authority)"
 url: /en/intune-cloud-pki-byoca-cloud-endpoint-diary
 ---

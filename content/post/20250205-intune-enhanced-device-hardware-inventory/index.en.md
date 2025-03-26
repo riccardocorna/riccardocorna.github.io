@@ -3,7 +3,7 @@ date: 2025-02-05T05:00:00-00:00
 description: "Discover how to collect detailed hardware data from devices with Intune and the new Enhanced Device Hardware Inventory feature. Get reports in 24 hours!"
 image: "01-enhanced-device-hardware-inventory-cover.jpg"
 categories : [ "Modern Work" ]
-tags: [ "Enhanced Device Hardware Inventory", "Properties Catalog", "Microsoft Intune", "Intune", "Video", "Guide" ]
+tags: [ "Enhanced Device Hardware Inventory", "Properties Catalog", "Microsoft Intune", "Intune", "Video", "Tutorial", "Cloud Endpoint Diary" ]
 title: "Intune Enhanced Device Hardware Inventory"
 url: /en/intune-enhanced-device-hardware-inventory
 ---

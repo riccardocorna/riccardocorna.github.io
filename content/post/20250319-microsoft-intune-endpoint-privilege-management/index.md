@@ -3,7 +3,7 @@ date: 2025-03-19T05:00:00-00:00
 description: "Tutorial essenziale su Intune Endpoint Privilege Management:scopri come fare in modo che gli utenti standard possano lanciare eseguibili con privilegi amministrativi, in sicurezza. 🚀"
 image: "01-microsoft-intune-endpoint-privilege-management.jpg"
 categories : [ "Modern Work", "Security" ]
-tags: [ "Microsoft Intune", "EPM", "Endpoint Privilege Management", "Video", "Guida"]
+tags: [ "Microsoft Intune", "EPM", "Endpoint Privilege Management", "Video", "Guida", "Cloud Endpoint Diary"]
 title: "Microsoft Intune Endpoint Privilege Management"
 url: /microsoft-intune-endpoint-privilege-management
 ---

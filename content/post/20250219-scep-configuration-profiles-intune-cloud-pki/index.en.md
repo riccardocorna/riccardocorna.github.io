@@ -3,7 +3,7 @@ date: 2025-02-19T05:00:00-00:00
 description: "Discover how to use a Cloud PKI with Microsoft Intune to request certificates with SCEP configuration profiles. Complete tutorial on creating and distributing digital certificates."
 image: "01-scep-configuration-profiles-intune-cloud-pki.jpg"
 categories: [ "Modern Work", "Security" ]
-tags: [ "Microsoft Intune", "Cloud PKI", "SCEP", "Configuration Profiles", "Video", "Tutorial" ]
+tags: [ "Microsoft Intune", "Cloud PKI", "SCEP", "Configuration Profiles", "Video", "Tutorial", "Cloud Endpoint Diary" ]
 title: "SCEP Configuration Profiles for Intune Cloud PKI"
 url: /en/scep-configuration-profiles-intune-cloud-pki
 ---

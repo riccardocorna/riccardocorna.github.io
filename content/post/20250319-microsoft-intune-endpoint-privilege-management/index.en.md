@@ -3,7 +3,7 @@ date: 2025-03-19T05:00:00-00:00
 description: "Essential tutorial on Intune Endpoint Privilege Management: learn how to enable standard users to run executables with administrative privileges, securely. 🚀"
 image: "01-microsoft-intune-endpoint-privilege-management.jpg"
 categories: [ "Modern Work", "Security" ]
-tags: [ "Microsoft Intune", "EPM", "Endpoint Privilege Management", "Video", "Tutorial"]
+tags: [ "Microsoft Intune", "EPM", "Endpoint Privilege Management", "Video", "Tutorial", "Cloud Endpoint Diary"]
 title: "Microsoft Intune Endpoint Privilege Management"
 url: /en/microsoft-intune-endpoint-privilege-management
 ---

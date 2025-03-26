@@ -3,7 +3,7 @@ date: 2025-04-02T05:00:00-00:00
 description: "Windows Passwordless Experience: a complete guide on what it is, how to configure it via Intune, and its security benefits."
 image: "01-windows-passwordless-experience.jpg"
 categories: [ "Modern Work", "Security" ]
-tags: [ "Microsoft Intune", "Windows", "Passwordless Experience", "Windows Hello for Business", "Video", "Guide" ]
+tags: [ "Microsoft Intune", "Windows", "Passwordless Experience", "Windows Hello for Business", "Video", "Guide", "Cloud Endpoint Diary" ]
 title: "Windows Passwordless Experience"
 url: /en/windows-passwordless-experience
 ---

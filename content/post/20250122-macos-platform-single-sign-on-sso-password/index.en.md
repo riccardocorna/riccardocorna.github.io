@@ -3,7 +3,7 @@ date: 2025-01-22T05:00:00-00:00
 description: "How to configure Platform Single Sign-On on macOS with Microsoft Entra and Intune. Quick guide on authentication methods, compliance policies, and useful tips for secure and integrated login."
 image: "01-macos-platform-single-sign-on-sso-password.jpg"
 categories: [ "Security", "Modern Work" ]
-tags: [ "Microsoft Intune", "Intune", "macOS", "Platform SSO", "Single Sign-On", "Microsoft Entra", "Video", "Tutorial" ]
+tags: [ "Microsoft Intune", "Intune", "macOS", "Platform SSO", "Single Sign-On", "Microsoft Entra", "Video", "Tutorial", "Cloud Endpoint Diary" ]
 title: "macOS Platform SSO: Mac login with Microsoft Entra username and password"
 url: /en/macos-platform-single-sign-on-sso-password
 ---
