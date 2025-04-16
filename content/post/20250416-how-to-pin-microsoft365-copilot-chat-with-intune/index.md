@@ -66,7 +66,7 @@ Anche la Navigation Bar è stata pinnata! 🥳
 Ecco tutta la documentazione a cui faccio riferimento durante il video.
 
 ### Tabella delle differenze tra Microsoft 365 Copilot Chat e Microsoft Copilot
-![Tabella delle differenze tra Microsoft 365 Copilot Chat e Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2025/01/Copilot-Licensing-Blog-Image-3600px-scaled.jpg)
+[![Tabella delle differenze tra Microsoft 365 Copilot Chat e Microsoft Copilot](Copilot-Licensing-Blog-Image-3600px-scaled.jpg)](Copilot-Licensing-Blog-Image-3600px-scaled.jpg)
 
 ### Altra documentazione utile
 📌 [Manage Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/manage)  

@@ -67,7 +67,7 @@ The Navigation Bar has also been pinned! 🥳
 Here’s all the documentation I reference in the video.
 
 ### Comparison Table Between Microsoft 365 Copilot Chat and Microsoft Copilot
-![Comparison table between Microsoft 365 Copilot Chat and Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2025/01/Copilot-Licensing-Blog-Image-3600px-scaled.jpg)
+[![Comparison table between Microsoft 365 Copilot Chat and Microsoft Copilot](Copilot-Licensing-Blog-Image-3600px-scaled.jpg)](Copilot-Licensing-Blog-Image-3600px-scaled.jpg)
 
 ### Other Useful Documentation
 📌 [Manage Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/manage)  
