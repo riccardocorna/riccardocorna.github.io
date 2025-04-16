@@ -1,7 +1,7 @@
 ---
 date: 2025-04-16T05:00:00-00:00
 description: "Tutorial su come controllare il pinning di Microsoft 365 Copilot Chat attraverso Microsoft Intune in maniera graduale e controllata."
-image: ""
+image: "01-microsoft-365-copilot-chat-pin-navigation-bar-taskbar-intune.jpg"
 categories : [ "Modern Work"]
 tags: [ "Microsoft 365 Copilot Chat", "Microsoft Intune", "Copilot", "Video", "Guida", "Cloud Endpoint Diary"]
 title: "Come controllare il pinning di Microsoft 365 Copilot Chat con Intune"
