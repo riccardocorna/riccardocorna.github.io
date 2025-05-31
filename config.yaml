@@ -210,23 +210,23 @@ menu:
     main: []
 
     social:
-        - identifier: linkedin
-          name: LinkedIn
-          url: https://www.linkedin.com/in/riccardocorna/it
-          params:
-              icon: brand-linkedin
+        #- identifier: linkedin
+        #  name: LinkedIn
+        #  url: https://www.linkedin.com/in/riccardocorna/it
+        #  params:
+        #      icon: brand-linkedin
 
-        - identifier: youtube
-          name: YouTube
-          url: https://youtube.com/@riccardocornayt
-          params:
-              icon: brand-youtube
+        #- identifier: youtube
+        #  name: YouTube
+        #  url: https://youtube.com/@riccardocornayt
+        #  params:
+        #      icon: brand-youtube
 
-        - identifier: instagram
-          name: Instagram
-          url: https://instagram.com/riccardocornaig
+        - identifier: newsletter
+          name: Newsletter
+          url: https://itspecialist.news
           params:
-              icon: brand-instagram
+              icon: mailbox
         
         - identifier: rss
           name: RSS
