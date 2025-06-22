@@ -61,7 +61,7 @@ Ecco il comando per generare il certificato.
 ## Upload dei certificati su Intune e creazione finale della Issuing CA
 Perfetto, ora carichiamo in cloud la trust chain e il certificato generato
 
-{{< youtubestartend xKfFpOhDJvs  165 187 >}}
+{{< youtubestartend xKfFpOhDJvs  175 187 >}}
 
 ## Considerazioni finali
 Abbiamo creato la nostra CLOUD PKI!
